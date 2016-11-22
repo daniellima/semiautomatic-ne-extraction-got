@@ -3,9 +3,9 @@
   [
    0,
    1,
-   9,
+   22,
    "OTHER",
-   "The Lion"
+   "The Lion and the Rose"
   ],
   [
    0,
@@ -15,11 +15,11 @@
    "Game of Thrones"
   ],
   [
-   0,
    1,
-   22,
+   46,
+   56,
    "OTHER",
-   "The Lion and the Rose"
+   "George R.R"
   ],
   [
    1,
@@ -29,11 +29,11 @@
    "April"
   ],
   [
-   1,
-   46,
-   56,
+   2,
+   28,
+   39,
    "OTHER",
-   "George R.R"
+   "Song of Ice"
   ],
   [
    2,
@@ -41,13 +41,6 @@
    6,
    "OTHER",
    "Martin"
-  ],
-  [
-   2,
-   28,
-   39,
-   "OTHER",
-   "Song of Ice"
   ],
   [
    3,
@@ -60,10 +53,10 @@
  "plot": [
   [
    0,
-   44,
-   51,
+   78,
+   92,
    "OTHER",
-   "Joffrey"
+   "King's Landing"
   ],
   [
    0,
@@ -74,24 +67,10 @@
   ],
   [
    0,
-   78,
-   92,
+   44,
+   51,
    "OTHER",
-   "King's Landing"
-  ],
-  [
-   1,
-   11,
-   16,
-   "OTHER",
-   "Bronn"
-  ],
-  [
-   1,
-   54,
-   58,
-   "OTHER",
-   "Bran"
+   "Joffrey"
   ],
   [
    1,
@@ -102,13 +81,6 @@
   ],
   [
    1,
-   123,
-   128,
-   "OTHER",
-   "Davos"
-  ],
-  [
-   1,
    134,
    140,
    "OTHER",
@@ -116,13 +88,34 @@
   ],
   [
    1,
+   11,
+   16,
+   "OTHER",
+   "Bronn"
+  ],
+  [
+   1,
    123,
    128,
    "OTHER",
    "Davos"
+  ],
+  [
+   1,
+   54,
+   58,
+   "OTHER",
+   "Bran"
   ]
  ],
  "summary/At Dragonstone": [
+  [
+   0,
+   149,
+   162,
+   "OTHER",
+   "Lord of Light"
+  ],
   [
    0,
    16,
@@ -136,13 +129,6 @@
    39,
    "OTHER",
    "Melisandre"
-  ],
-  [
-   0,
-   149,
-   162,
-   "OTHER",
-   "Lord of Light"
   ],
   [
    1,
@@ -167,13 +153,6 @@
   ],
   [
    2,
-   0,
-   8,
-   "OTHER",
-   "Watching"
-  ],
-  [
-   2,
    26,
    44,
    "OTHER",
@@ -188,10 +167,10 @@
   ],
   [
    2,
-   30,
-   35,
+   0,
+   8,
    "OTHER",
-   "Davos"
+   "Watching"
   ],
   [
    3,
@@ -209,6 +188,13 @@
   ],
   [
    4,
+   48,
+   58,
+   "OTHER",
+   "Melisandre"
+  ],
+  [
+   4,
    12,
    19,
    "OTHER",
@@ -222,25 +208,11 @@
    "Selyse"
   ],
   [
-   4,
-   48,
-   58,
-   "OTHER",
-   "Melisandre"
-  ],
-  [
    5,
    44,
    70,
    "OTHER",
    "Princess Shireen Baratheon"
-  ],
-  [
-   5,
-   72,
-   78,
-   "OTHER",
-   "Selyse"
   ],
   [
    5,
@@ -257,9 +229,9 @@
    "Stannis"
   ],
   [
-   6,
-   0,
-   6,
+   5,
+   72,
+   78,
    "OTHER",
    "Selyse"
   ],
@@ -278,11 +250,11 @@
    "Shireen"
   ],
   [
-   7,
+   6,
    0,
-   7,
+   6,
    "OTHER",
-   "Stannis"
+   "Selyse"
   ],
   [
    7,
@@ -290,6 +262,34 @@
    39,
    "OTHER",
    "Melisandre"
+  ],
+  [
+   7,
+   0,
+   7,
+   "OTHER",
+   "Stannis"
+  ],
+  [
+   8,
+   162,
+   180,
+   "OTHER",
+   "Faith of the Seven"
+  ],
+  [
+   8,
+   258,
+   271,
+   "OTHER",
+   "Lord of Light"
+  ],
+  [
+   8,
+   280,
+   291,
+   "OTHER",
+   "Great Other"
   ],
   [
    8,
@@ -313,39 +313,11 @@
    "Shireen"
   ],
   [
-   8,
-   162,
-   180,
-   "OTHER",
-   "Faith of the Seven"
-  ],
-  [
-   8,
-   13,
-   23,
+   9,
+   96,
+   106,
    "OTHER",
    "Melisandre"
-  ],
-  [
-   8,
-   210,
-   220,
-   "OTHER",
-   "Melisandre"
-  ],
-  [
-   8,
-   258,
-   271,
-   "OTHER",
-   "Lord of Light"
-  ],
-  [
-   8,
-   280,
-   291,
-   "OTHER",
-   "Great Other"
   ],
   [
    9,
@@ -360,32 +332,11 @@
    52,
    "OTHER",
    "Faith"
-  ],
-  [
-   9,
-   96,
-   106,
-   "OTHER",
-   "Melisandre"
   ]
  ],
  "summary/At King's Landing": [
   [
    0,
-   13,
-   18,
-   "OTHER",
-   "Jaime"
-  ],
-  [
-   0,
-   38,
-   43,
-   "OTHER",
-   "Jaime"
-  ],
-  [
-   0,
    23,
    29,
    "OTHER",
@@ -413,16 +364,16 @@
    "Jaime"
   ],
   [
-   0,
-   23,
-   29,
+   1,
+   197,
+   229,
    "OTHER",
-   "Tyrion"
+   "Lord Commander of the Kingsguard"
   ],
   [
-   0,
-   85,
-   91,
+   1,
+   69,
+   75,
    "OTHER",
    "Tyrion"
   ],
@@ -434,25 +385,11 @@
    "Jaime"
   ],
   [
-   1,
-   69,
-   75,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   1,
-   197,
-   229,
-   "OTHER",
-   "Lord Commander of the Kingsguard"
-  ],
-  [
    2,
-   0,
-   7,
+   42,
+   56,
    "OTHER",
-   "Brienne"
+   "Queen Margaery"
   ],
   [
    2,
@@ -463,17 +400,10 @@
   ],
   [
    2,
-   42,
-   56,
-   "OTHER",
-   "Queen Margaery"
-  ],
-  [
-   3,
+   0,
    7,
-   12,
    "OTHER",
-   "Jaime"
+   "Brienne"
   ],
   [
    3,
@@ -481,6 +411,13 @@
    81,
    "OTHER",
    "Tyrion"
+  ],
+  [
+   3,
+   7,
+   12,
+   "OTHER",
+   "Jaime"
   ],
   [
    4,
@@ -512,6 +449,13 @@
   ],
   [
    7,
+   71,
+   78,
+   "OTHER",
+   "Joffrey"
+  ],
+  [
+   7,
    0,
    6,
    "OTHER",
@@ -525,11 +469,11 @@
    "Varys"
   ],
   [
-   7,
-   71,
-   78,
+   8,
+   63,
+   69,
    "OTHER",
-   "Joffrey"
+   "Cersei"
   ],
   [
    8,
@@ -546,9 +490,23 @@
    "Shae"
   ],
   [
-   8,
-   63,
-   69,
+   9,
+   107,
+   123,
+   "OTHER",
+   "Hand of the King"
+  ],
+  [
+   9,
+   86,
+   101,
+   "OTHER",
+   "Tywin Lannister"
+  ],
+  [
+   9,
+   128,
+   134,
    "OTHER",
    "Cersei"
   ],
@@ -567,25 +525,11 @@
    "Shae"
   ],
   [
-   9,
-   86,
-   101,
+   10,
+   42,
+   56,
    "OTHER",
-   "Tywin Lannister"
-  ],
-  [
-   9,
-   107,
-   123,
-   "OTHER",
-   "Hand of the King"
-  ],
-  [
-   9,
-   128,
-   134,
-   "OTHER",
-   "Cersei"
+   "King's Landing"
   ],
   [
    10,
@@ -600,20 +544,6 @@
    126,
    "OTHER",
    "Tyrion"
-  ],
-  [
-   10,
-   22,
-   26,
-   "OTHER",
-   "Shae"
-  ],
-  [
-   10,
-   42,
-   56,
-   "OTHER",
-   "King's Landing"
   ],
   [
    10,
@@ -624,17 +554,24 @@
   ],
   [
    10,
-   0,
-   6,
+   22,
+   26,
    "OTHER",
-   "Tyrion"
+   "Shae"
   ],
   [
-   10,
-   120,
-   126,
+   12,
+   191,
+   206,
    "OTHER",
-   "Tyrion"
+   "Margaery Tyrell"
+  ],
+  [
+   12,
+   144,
+   158,
+   "OTHER",
+   "Seven Kingdoms"
   ],
   [
    12,
@@ -651,25 +588,18 @@
    "Joffrey"
   ],
   [
-   12,
-   144,
-   158,
-   "OTHER",
-   "Seven Kingdoms"
-  ],
-  [
-   12,
-   191,
-   206,
-   "OTHER",
-   "Margaery Tyrell"
-  ],
-  [
    13,
    0,
    7,
    "OTHER",
    "Joffrey"
+  ],
+  [
+   14,
+   104,
+   121,
+   "OTHER",
+   "Tower of the Hand"
   ],
   [
    14,
@@ -680,10 +610,10 @@
   ],
   [
    14,
-   13,
-   17,
+   46,
+   52,
    "OTHER",
-   "Shae"
+   "Tyrion"
   ],
   [
    14,
@@ -694,59 +624,10 @@
   ],
   [
    14,
-   46,
-   52,
+   13,
+   17,
    "OTHER",
-   "Tyrion"
-  ],
-  [
-   14,
-   104,
-   121,
-   "OTHER",
-   "Tower of the Hand"
-  ],
-  [
-   15,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   15,
-   91,
-   97,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   15,
-   64,
-   71,
-   "OTHER",
-   "Joffrey"
-  ],
-  [
-   15,
-   76,
-   89,
-   "OTHER",
-   "Podrick Payne"
-  ],
-  [
-   15,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   15,
-   91,
-   97,
-   "OTHER",
-   "Tyrion"
+   "Shae"
   ],
   [
    15,
@@ -761,6 +642,34 @@
    215,
    "OTHER",
    "Grand Maester Kaeth"
+  ],
+  [
+   15,
+   76,
+   89,
+   "OTHER",
+   "Podrick Payne"
+  ],
+  [
+   15,
+   64,
+   71,
+   "OTHER",
+   "Joffrey"
+  ],
+  [
+   15,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
+  ],
+  [
+   15,
+   91,
+   97,
+   "OTHER",
+   "Tyrion"
   ],
   [
    16,
@@ -785,17 +694,17 @@
   ],
   [
    17,
-   68,
-   73,
-   "OTHER",
-   "Tywin"
-  ],
-  [
-   17,
    145,
    152,
    "OTHER",
    "Joffrey"
+  ],
+  [
+   17,
+   68,
+   73,
+   "OTHER",
+   "Tywin"
   ],
   [
    18,
@@ -820,22 +729,15 @@
   ],
   [
    20,
-   58,
-   62,
-   "OTHER",
-   "Shae"
-  ],
-  [
-   20,
    129,
    135,
    "OTHER",
    "Pentos"
   ],
   [
-   21,
-   0,
-   4,
+   20,
+   58,
+   62,
    "OTHER",
    "Shae"
   ],
@@ -845,6 +747,13 @@
    31,
    "OTHER",
    "Tyrion"
+  ],
+  [
+   21,
+   0,
+   4,
+   "OTHER",
+   "Shae"
   ],
   [
    22,
@@ -904,20 +813,6 @@
   ],
   [
    27,
-   0,
-   7,
-   "OTHER",
-   "Joffrey"
-  ],
-  [
-   27,
-   12,
-   20,
-   "OTHER",
-   "Margaery"
-  ],
-  [
-   27,
    59,
    79,
    "OTHER",
@@ -931,6 +826,20 @@
    "High Septon"
   ],
   [
+   27,
+   12,
+   20,
+   "OTHER",
+   "Margaery"
+  ],
+  [
+   27,
+   0,
+   7,
+   "OTHER",
+   "Joffrey"
+  ],
+  [
    28,
    22,
    34,
@@ -939,17 +848,10 @@
   ],
   [
    29,
-   64,
-   71,
+   170,
+   191,
    "OTHER",
-   "Joffrey"
-  ],
-  [
-   29,
-   73,
-   88,
-   "OTHER",
-   "Renly Baratheon"
+   "War of the Five Kings"
   ],
   [
    29,
@@ -960,10 +862,10 @@
   ],
   [
    29,
-   109,
-   119,
+   73,
+   88,
    "OTHER",
-   "Robb Stark"
+   "Renly Baratheon"
   ],
   [
    29,
@@ -974,10 +876,17 @@
   ],
   [
    29,
-   170,
-   191,
+   109,
+   119,
    "OTHER",
-   "War of the Five Kings"
+   "Robb Stark"
+  ],
+  [
+   29,
+   64,
+   71,
+   "OTHER",
+   "Joffrey"
   ],
   [
    31,
@@ -1002,10 +911,24 @@
   ],
   [
    32,
+   67,
+   80,
+   "OTHER",
+   "Prince Oberyn"
+  ],
+  [
+   32,
    0,
    11,
    "OTHER",
    "The Tyrells"
+  ],
+  [
+   32,
+   101,
+   112,
+   "OTHER",
+   "Sansa Stark"
   ],
   [
    32,
@@ -1023,10 +946,10 @@
   ],
   [
    32,
-   31,
-   35,
+   89,
+   95,
    "OTHER",
-   "Mace"
+   "Tyrion"
   ],
   [
    32,
@@ -1044,13 +967,6 @@
   ],
   [
    32,
-   67,
-   80,
-   "OTHER",
-   "Prince Oberyn"
-  ],
-  [
-   32,
    82,
    87,
    "OTHER",
@@ -1058,17 +974,10 @@
   ],
   [
    32,
-   89,
-   95,
+   31,
+   35,
    "OTHER",
-   "Tyrion"
-  ],
-  [
-   32,
-   101,
-   112,
-   "OTHER",
-   "Sansa Stark"
+   "Mace"
   ],
   [
    33,
@@ -1090,20 +999,6 @@
    84,
    "OTHER",
    "Renly"
-  ],
-  [
-   33,
-   0,
-   5,
-   "OTHER",
-   "Loras"
-  ],
-  [
-   33,
-   112,
-   117,
-   "OTHER",
-   "Loras"
   ],
   [
    33,
@@ -1135,10 +1030,10 @@
   ],
   [
    35,
-   0,
-   6,
+   129,
+   153,
    "OTHER",
-   "Tyrion"
+   "Battle of the Blackwater"
   ],
   [
    35,
@@ -1149,10 +1044,10 @@
   ],
   [
    35,
-   129,
-   153,
+   0,
+   6,
    "OTHER",
-   "Battle of the Blackwater"
+   "Tyrion"
   ],
   [
    37,
@@ -1170,29 +1065,15 @@
   ],
   [
    38,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   38,
    18,
    25,
    "OTHER",
    "Joffrey"
   ],
   [
-   39,
+   38,
    0,
-   5,
-   "OTHER",
-   "Sansa"
-  ],
-  [
-   39,
-   26,
-   32,
+   6,
    "OTHER",
    "Tyrion"
   ],
@@ -1204,18 +1085,18 @@
    "Joffrey"
   ],
   [
-   40,
-   22,
-   28,
+   39,
+   26,
+   32,
    "OTHER",
    "Tyrion"
   ],
   [
-   40,
-   50,
-   56,
+   39,
+   0,
+   5,
    "OTHER",
-   "Tyrion"
+   "Sansa"
   ],
   [
    40,
@@ -1240,17 +1121,17 @@
   ],
   [
    42,
-   0,
-   7,
-   "OTHER",
-   "Joffrey"
-  ],
-  [
-   42,
    28,
    36,
    "OTHER",
    "Margaery"
+  ],
+  [
+   42,
+   0,
+   7,
+   "OTHER",
+   "Joffrey"
   ],
   [
    42,
@@ -1275,20 +1156,6 @@
   ],
   [
    45,
-   0,
-   5,
-   "OTHER",
-   "Sansa"
-  ],
-  [
-   45,
-   10,
-   16,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   45,
    51,
    59,
    "OTHER",
@@ -1300,6 +1167,20 @@
    74,
    "OTHER",
    "Joffrey"
+  ],
+  [
+   45,
+   10,
+   16,
+   "OTHER",
+   "Tyrion"
+  ],
+  [
+   45,
+   0,
+   5,
+   "OTHER",
+   "Sansa"
   ],
   [
    46,
@@ -1317,17 +1198,17 @@
   ],
   [
    47,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   47,
    27,
    34,
    "OTHER",
    "Joffrey"
+  ],
+  [
+   47,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
   ],
   [
    48,
@@ -1359,10 +1240,10 @@
   ],
   [
    51,
-   0,
-   5,
+   34,
+   41,
    "OTHER",
-   "Jaime"
+   "Joffrey"
   ],
   [
    51,
@@ -1373,10 +1254,10 @@
   ],
   [
    51,
-   34,
-   41,
+   0,
+   5,
    "OTHER",
-   "Joffrey"
+   "Jaime"
   ],
   [
    52,
@@ -1421,34 +1302,6 @@
    "Tyrion"
   ],
   [
-   53,
-   0,
-   7,
-   "OTHER",
-   "Joffrey"
-  ],
-  [
-   53,
-   122,
-   129,
-   "OTHER",
-   "Joffrey"
-  ],
-  [
-   53,
-   39,
-   45,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   53,
-   142,
-   148,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
    54,
    0,
    7,
@@ -1457,17 +1310,17 @@
   ],
   [
    55,
-   0,
-   6,
-   "OTHER",
-   "Cersei"
-  ],
-  [
-   55,
    38,
    48,
    "OTHER",
    "Kingsguard"
+  ],
+  [
+   55,
+   0,
+   6,
+   "OTHER",
+   "Cersei"
   ],
   [
    55,
@@ -1480,10 +1333,10 @@
  "summary/At the Dreadfort": [
   [
    0,
-   31,
-   40,
+   131,
+   144,
    "OTHER",
-   "Dreadfort"
+   "Theon Greyjoy"
   ],
   [
    0,
@@ -1501,17 +1354,17 @@
   ],
   [
    0,
-   131,
-   144,
+   31,
+   40,
    "OTHER",
-   "Theon Greyjoy"
+   "Dreadfort"
   ],
   [
    0,
-   68,
-   74,
+   199,
+   206,
    "OTHER",
-   "Ramsay"
+   "Myranda"
   ],
   [
    0,
@@ -1526,13 +1379,6 @@
    193,
    "OTHER",
    "Reek"
-  ],
-  [
-   0,
-   199,
-   206,
-   "OTHER",
-   "Myranda"
   ],
   [
    1,
@@ -1550,6 +1396,13 @@
   ],
   [
    2,
+   129,
+   141,
+   "OTHER",
+   "Walda Bolton"
+  ],
+  [
+   2,
    40,
    49,
    "OTHER",
@@ -1564,24 +1417,17 @@
   ],
   [
    2,
-   12,
-   17,
-   "OTHER",
-   "Roose"
-  ],
-  [
-   2,
    111,
    116,
    "OTHER",
    "Roose"
   ],
   [
-   2,
-   129,
-   141,
+   3,
+   115,
+   125,
    "OTHER",
-   "Walda Bolton"
+   "Kingslayer"
   ],
   [
    3,
@@ -1598,18 +1444,11 @@
    "Locke"
   ],
   [
-   3,
-   115,
-   125,
-   "OTHER",
-   "Kingslayer"
-  ],
-  [
    4,
-   0,
-   5,
+   36,
+   49,
    "OTHER",
-   "Roose"
+   "Theon Greyjoy"
   ],
   [
    4,
@@ -1620,59 +1459,17 @@
   ],
   [
    4,
-   36,
-   49,
-   "OTHER",
-   "Theon Greyjoy"
-  ],
-  [
-   5,
    0,
    5,
    "OTHER",
-   "Theon"
-  ],
-  [
-   5,
-   115,
-   120,
-   "OTHER",
-   "Theon"
-  ],
-  [
-   5,
-   167,
-   172,
-   "OTHER",
-   "Theon"
-  ],
-  [
-   5,
-   20,
-   25,
-   "OTHER",
    "Roose"
   ],
   [
    5,
-   44,
-   49,
+   125,
+   138,
    "OTHER",
-   "Roose"
-  ],
-  [
-   5,
-   20,
-   25,
-   "OTHER",
-   "Roose"
-  ],
-  [
-   5,
-   44,
-   49,
-   "OTHER",
-   "Roose"
+   "Balon Greyjoy"
   ],
   [
    5,
@@ -1704,36 +1501,15 @@
   ],
   [
    5,
-   125,
-   138,
+   20,
+   25,
    "OTHER",
-   "Balon Greyjoy"
+   "Roose"
   ],
   [
    5,
-   0,
-   5,
-   "OTHER",
-   "Theon"
-  ],
-  [
-   5,
-   115,
-   120,
-   "OTHER",
-   "Theon"
-  ],
-  [
-   5,
-   167,
-   172,
-   "OTHER",
-   "Theon"
-  ],
-  [
-   6,
-   0,
-   5,
+   44,
+   49,
    "OTHER",
    "Roose"
   ],
@@ -1753,31 +1529,10 @@
   ],
   [
    6,
-   164,
-   169,
-   "OTHER",
-   "Theon"
-  ],
-  [
-   6,
    174,
    185,
    "OTHER",
    "Moat Cailin"
-  ],
-  [
-   6,
-   55,
-   60,
-   "OTHER",
-   "North"
-  ],
-  [
-   6,
-   245,
-   250,
-   "OTHER",
-   "North"
   ],
   [
    6,
@@ -1801,6 +1556,27 @@
    "Bolton"
   ],
   [
+   6,
+   0,
+   5,
+   "OTHER",
+   "Roose"
+  ],
+  [
+   6,
+   164,
+   169,
+   "OTHER",
+   "Theon"
+  ],
+  [
+   6,
+   245,
+   250,
+   "OTHER",
+   "North"
+  ],
+  [
    7,
    0,
    6,
@@ -1816,38 +1592,24 @@
   ],
   [
    8,
+   22,
+   28,
+   "OTHER",
+   "Ramsay"
+  ],
+  [
+   8,
+   61,
+   67,
+   "OTHER",
+   "Ramsay"
+  ],
+  [
+   8,
    0,
    5,
    "OTHER",
    "Roose"
-  ],
-  [
-   8,
-   22,
-   28,
-   "OTHER",
-   "Ramsay"
-  ],
-  [
-   8,
-   61,
-   67,
-   "OTHER",
-   "Ramsay"
-  ],
-  [
-   8,
-   22,
-   28,
-   "OTHER",
-   "Ramsay"
-  ],
-  [
-   8,
-   61,
-   67,
-   "OTHER",
-   "Ramsay"
   ],
   [
    8,
@@ -1858,10 +1620,10 @@
   ],
   [
    9,
-   15,
-   19,
+   82,
+   94,
    "OTHER",
-   "Reek"
+   "Rickon Stark"
   ],
   [
    9,
@@ -1872,59 +1634,17 @@
   ],
   [
    9,
+   15,
+   19,
+   "OTHER",
+   "Reek"
+  ],
+  [
+   9,
    73,
    77,
    "OTHER",
    "Bran"
-  ],
-  [
-   9,
-   82,
-   94,
-   "OTHER",
-   "Rickon Stark"
-  ],
-  [
-   10,
-   0,
-   6,
-   "OTHER",
-   "Ramsay"
-  ],
-  [
-   10,
-   57,
-   68,
-   "OTHER",
-   "House Stark"
-  ],
-  [
-   10,
-   83,
-   88,
-   "OTHER",
-   "North"
-  ],
-  [
-   10,
-   138,
-   143,
-   "OTHER",
-   "North"
-  ],
-  [
-   10,
-   99,
-   109,
-   "OTHER",
-   "Robb Stark"
-  ],
-  [
-   10,
-   138,
-   149,
-   "OTHER",
-   "Northerners"
   ],
   [
    10,
@@ -1935,10 +1655,38 @@
   ],
   [
    10,
+   57,
+   68,
+   "OTHER",
+   "House Stark"
+  ],
+  [
+   10,
+   138,
+   149,
+   "OTHER",
+   "Northerners"
+  ],
+  [
+   10,
+   99,
+   109,
+   "OTHER",
+   "Robb Stark"
+  ],
+  [
+   10,
    187,
    197,
    "OTHER",
    "House Frey"
+  ],
+  [
+   10,
+   0,
+   6,
+   "OTHER",
+   "Ramsay"
   ],
   [
    10,
@@ -1949,13 +1697,6 @@
   ],
   [
    10,
-   248,
-   252,
-   "OTHER",
-   "Bran"
-  ],
-  [
-   10,
    257,
    263,
    "OTHER",
@@ -1963,10 +1704,31 @@
   ],
   [
    10,
+   83,
+   88,
+   "OTHER",
+   "North"
+  ],
+  [
+   10,
    276,
    281,
    "OTHER",
    "Roose"
+  ],
+  [
+   10,
+   248,
+   252,
+   "OTHER",
+   "Bran"
+  ],
+  [
+   11,
+   94,
+   105,
+   "OTHER",
+   "Red Wedding"
   ],
   [
    11,
@@ -1981,27 +1743,6 @@
    31,
    "OTHER",
    "Theon"
-  ],
-  [
-   11,
-   39,
-   43,
-   "OTHER",
-   "Robb"
-  ],
-  [
-   11,
-   181,
-   185,
-   "OTHER",
-   "Robb"
-  ],
-  [
-   11,
-   94,
-   105,
-   "OTHER",
-   "Red Wedding"
   ],
   [
    11,
@@ -2033,6 +1774,55 @@
   ],
   [
    13,
+   513,
+   527,
+   "OTHER",
+   "Seven Kingdoms"
+  ],
+  [
+   13,
+   463,
+   476,
+   "OTHER",
+   "Night's Watch"
+  ],
+  [
+   13,
+   136,
+   148,
+   "OTHER",
+   "Castle Black"
+  ],
+  [
+   13,
+   322,
+   332,
+   "OTHER",
+   "Northeners"
+  ],
+  [
+   13,
+   88,
+   96,
+   "OTHER",
+   "Jon Snow"
+  ],
+  [
+   13,
+   61,
+   67,
+   "OTHER",
+   "Rickon"
+  ],
+  [
+   13,
+   198,
+   204,
+   "OTHER",
+   "Ramsay"
+  ],
+  [
+   13,
    0,
    5,
    "OTHER",
@@ -2047,17 +1837,17 @@
   ],
   [
    13,
+   263,
+   268,
+   "OTHER",
+   "Stark"
+  ],
+  [
+   13,
    52,
    56,
    "OTHER",
    "Bran"
-  ],
-  [
-   13,
-   61,
-   67,
-   "OTHER",
-   "Rickon"
   ],
   [
    13,
@@ -2068,34 +1858,6 @@
   ],
   [
    13,
-   88,
-   96,
-   "OTHER",
-   "Jon Snow"
-  ],
-  [
-   13,
-   136,
-   148,
-   "OTHER",
-   "Castle Black"
-  ],
-  [
-   13,
-   198,
-   204,
-   "OTHER",
-   "Ramsay"
-  ],
-  [
-   13,
-   88,
-   91,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   13,
    223,
    226,
    "OTHER",
@@ -2107,97 +1869,6 @@
    407,
    "OTHER",
    "Jon"
-  ],
-  [
-   13,
-   263,
-   268,
-   "OTHER",
-   "Stark"
-  ],
-  [
-   13,
-   322,
-   332,
-   "OTHER",
-   "Northeners"
-  ],
-  [
-   13,
-   88,
-   91,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   13,
-   223,
-   226,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   13,
-   404,
-   407,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   13,
-   463,
-   476,
-   "OTHER",
-   "Night's Watch"
-  ],
-  [
-   13,
-   513,
-   527,
-   "OTHER",
-   "Seven Kingdoms"
-  ],
-  [
-   13,
-   88,
-   91,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   13,
-   223,
-   226,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   13,
-   404,
-   407,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   14,
-   0,
-   5,
-   "OTHER",
-   "Roose"
-  ],
-  [
-   14,
-   12,
-   18,
-   "OTHER",
-   "Ramsay"
-  ],
-  [
-   14,
-   43,
-   48,
-   "OTHER",
-   "Theon"
   ],
   [
    14,
@@ -2214,11 +1885,32 @@
    "Greyjoys"
   ],
   [
-   15,
-   16,
-   21,
+   14,
+   12,
+   18,
+   "OTHER",
+   "Ramsay"
+  ],
+  [
+   14,
+   0,
+   5,
    "OTHER",
    "Roose"
+  ],
+  [
+   14,
+   43,
+   48,
+   "OTHER",
+   "Theon"
+  ],
+  [
+   15,
+   84,
+   96,
+   "OTHER",
+   "House Bolton"
   ],
   [
    15,
@@ -2229,27 +1921,13 @@
   ],
   [
    15,
-   84,
-   96,
+   16,
+   21,
    "OTHER",
-   "House Bolton"
+   "Roose"
   ]
  ],
  "summary/Beyond the Wall": [
-  [
-   2,
-   69,
-   75,
-   "OTHER",
-   "Summer"
-  ],
-  [
-   2,
-   118,
-   124,
-   "OTHER",
-   "Summer"
-  ],
   [
    2,
    85,
@@ -2270,20 +1948,6 @@
    124,
    "OTHER",
    "Summer"
-  ],
-  [
-   3,
-   0,
-   4,
-   "OTHER",
-   "Bran"
-  ],
-  [
-   3,
-   59,
-   63,
-   "OTHER",
-   "Bran"
   ],
   [
    3,
@@ -2342,20 +2006,6 @@
    "Bran"
   ],
   [
-   5,
-   26,
-   32,
-   "OTHER",
-   "Summer"
-  ],
-  [
-   5,
-   96,
-   102,
-   "OTHER",
-   "Summer"
-  ],
-  [
    6,
    0,
    5,
@@ -2391,30 +2041,9 @@
    "Bran"
   ],
   [
-   7,
-   22,
-   26,
-   "OTHER",
-   "Bran"
-  ],
-  [
-   7,
-   69,
-   73,
-   "OTHER",
-   "Bran"
-  ],
-  [
    8,
    7,
    11,
-   "OTHER",
-   "Bran"
-  ],
-  [
-   11,
-   0,
-   4,
    "OTHER",
    "Bran"
   ],
@@ -2424,6 +2053,13 @@
    14,
    "OTHER",
    "Hodor"
+  ],
+  [
+   11,
+   0,
+   4,
+   "OTHER",
+   "Bran"
   ],
   [
    12,
@@ -2448,17 +2084,10 @@
   ],
   [
    15,
-   0,
-   4,
+   172,
+   186,
    "OTHER",
-   "Bran"
-  ],
-  [
-   15,
-   32,
-   35,
-   "OTHER",
-   "Ice"
+   "King's Landing"
   ],
   [
    15,
@@ -2476,10 +2105,17 @@
   ],
   [
    15,
-   172,
-   186,
+   0,
+   4,
    "OTHER",
-   "King's Landing"
+   "Bran"
+  ],
+  [
+   15,
+   32,
+   35,
+   "OTHER",
+   "Ice"
   ],
   [
    16,

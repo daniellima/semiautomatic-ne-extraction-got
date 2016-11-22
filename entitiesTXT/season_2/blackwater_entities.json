@@ -2,17 +2,17 @@
  "info": [
   [
    0,
-   1,
-   11,
-   "OTHER",
-   "Blackwater"
-  ],
-  [
-   0,
    58,
    73,
    "OTHER",
    "Game of Thrones"
+  ],
+  [
+   0,
+   1,
+   11,
+   "OTHER",
+   "Blackwater"
   ],
   [
    2,
@@ -30,17 +30,17 @@
   ],
   [
    4,
-   0,
-   6,
-   "OTHER",
-   "Martin"
-  ],
-  [
-   4,
    23,
    36,
    "OTHER",
    "Neil Marshall"
+  ],
+  [
+   4,
+   0,
+   6,
+   "OTHER",
+   "Martin"
   ]
  ],
  "plot": [
@@ -62,17 +62,31 @@
  "summary/In King's Landing": [
   [
    0,
+   23,
+   32,
+   "OTHER",
+   "Lannister"
+  ],
+  [
+   0,
    0,
    5,
    "OTHER",
    "Bronn"
   ],
   [
-   0,
-   23,
-   32,
+   1,
+   105,
+   129,
    "OTHER",
-   "Lannister"
+   "Battle of the Blackwater"
+  ],
+  [
+   1,
+   75,
+   97,
+   "OTHER",
+   "King Stannis Baratheon"
   ],
   [
    1,
@@ -87,20 +101,6 @@
    52,
    "OTHER",
    "King's Landing"
-  ],
-  [
-   1,
-   75,
-   97,
-   "OTHER",
-   "King Stannis Baratheon"
-  ],
-  [
-   1,
-   105,
-   129,
-   "OTHER",
-   "Battle of the Blackwater"
   ],
   [
    2,
@@ -125,24 +125,17 @@
   ],
   [
    4,
-   0,
-   5,
-   "OTHER",
-   "Varys"
-  ],
-  [
-   4,
    12,
    18,
    "OTHER",
    "Tyrion"
   ],
   [
-   5,
+   4,
    0,
    5,
    "OTHER",
-   "Bronn"
+   "Varys"
   ],
   [
    5,
@@ -150,6 +143,13 @@
    31,
    "OTHER",
    "Lannister"
+  ],
+  [
+   5,
+   0,
+   5,
+   "OTHER",
+   "Bronn"
   ],
   [
    5,
@@ -181,17 +181,17 @@
   ],
   [
    8,
-   38,
-   44,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   8,
    94,
    101,
    "OTHER",
    "Stannis"
+  ],
+  [
+   8,
+   38,
+   44,
+   "OTHER",
+   "Tyrion"
   ],
   [
    9,
@@ -216,34 +216,6 @@
   ],
   [
    11,
-   0,
-   5,
-   "OTHER",
-   "Bronn"
-  ],
-  [
-   11,
-   136,
-   141,
-   "OTHER",
-   "Bronn"
-  ],
-  [
-   11,
-   24,
-   30,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   11,
-   92,
-   98,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   11,
    24,
    30,
    "OTHER",
@@ -269,13 +241,6 @@
    141,
    "OTHER",
    "Bronn"
-  ],
-  [
-   12,
-   37,
-   44,
-   "OTHER",
-   "Stannis"
   ],
   [
    12,
@@ -286,17 +251,10 @@
   ],
   [
    12,
-   96,
-   101,
+   37,
+   44,
    "OTHER",
-   "Davos"
-  ],
-  [
-   12,
-   131,
-   136,
-   "OTHER",
-   "Davos"
+   "Stannis"
   ],
   [
    12,
@@ -304,13 +262,6 @@
    151,
    "OTHER",
    "Matthos"
-  ],
-  [
-   12,
-   96,
-   101,
-   "OTHER",
-   "Davos"
   ],
   [
    12,
@@ -335,17 +286,17 @@
   ],
   [
    17,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   17,
    14,
    28,
    "OTHER",
    "Sandor Clegane"
+  ],
+  [
+   17,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
   ],
   [
    18,
@@ -440,10 +391,10 @@
   ],
   [
    29,
-   5,
-   11,
+   112,
+   120,
    "OTHER",
-   "Lancel"
+   "Red Keep"
   ],
   [
    29,
@@ -454,13 +405,6 @@
   ],
   [
    29,
-   65,
-   71,
-   "OTHER",
-   "Cersei"
-  ],
-  [
-   29,
    92,
    99,
    "OTHER",
@@ -468,10 +412,17 @@
   ],
   [
    29,
-   112,
-   120,
+   5,
+   11,
    "OTHER",
-   "Red Keep"
+   "Lancel"
+  ],
+  [
+   29,
+   65,
+   71,
+   "OTHER",
+   "Cersei"
   ],
   [
    30,
@@ -479,6 +430,20 @@
    6,
    "OTHER",
    "Tyrion"
+  ],
+  [
+   31,
+   89,
+   123,
+   "OTHER",
+   "Ser Boros Blount of the Kingsguard"
+  ],
+  [
+   31,
+   68,
+   84,
+   "OTHER",
+   "Ser Mandon Moore"
   ],
   [
    31,
@@ -493,20 +458,6 @@
    55,
    "OTHER",
    "Lancel"
-  ],
-  [
-   31,
-   68,
-   84,
-   "OTHER",
-   "Ser Mandon Moore"
-  ],
-  [
-   31,
-   89,
-   123,
-   "OTHER",
-   "Ser Boros Blount of the Kingsguard"
   ],
   [
    33,
@@ -524,17 +475,17 @@
   ],
   [
    37,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   37,
    22,
    32,
    "OTHER",
    "Ser Mandon"
+  ],
+  [
+   37,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
   ],
   [
    38,
@@ -547,34 +498,6 @@
    38,
    15,
    21,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   39,
-   21,
-   27,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   39,
-   35,
-   41,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   39,
-   21,
-   27,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   39,
-   35,
-   41,
    "OTHER",
    "Tyrion"
   ],
@@ -593,9 +516,16 @@
    "Ser Mandon"
   ],
   [
-   40,
-   0,
-   6,
+   39,
+   21,
+   27,
+   "OTHER",
+   "Tyrion"
+  ],
+  [
+   39,
+   35,
+   41,
    "OTHER",
    "Tyrion"
   ],
@@ -607,11 +537,25 @@
    "Podrick"
   ],
   [
+   40,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
+  ],
+  [
    41,
    0,
    6,
    "OTHER",
    "Lancel"
+  ],
+  [
+   42,
+   63,
+   70,
+   "OTHER",
+   "Joffrey"
   ],
   [
    42,
@@ -626,13 +570,6 @@
    24,
    "OTHER",
    "Cersei"
-  ],
-  [
-   42,
-   63,
-   70,
-   "OTHER",
-   "Joffrey"
   ],
   [
    43,
@@ -650,17 +587,17 @@
   ],
   [
    44,
-   0,
-   5,
-   "OTHER",
-   "Sansa"
-  ],
-  [
-   44,
    68,
    74,
    "OTHER",
    "Cersei"
+  ],
+  [
+   44,
+   0,
+   5,
+   "OTHER",
+   "Sansa"
   ],
   [
    45,
@@ -692,17 +629,10 @@
   ],
   [
    49,
-   0,
-   4,
+   106,
+   114,
    "OTHER",
-   "Shae"
-  ],
-  [
-   49,
-   11,
-   16,
-   "OTHER",
-   "Sansa"
+   "Ser Ilyn"
   ],
   [
    49,
@@ -713,10 +643,17 @@
   ],
   [
    49,
-   106,
-   114,
+   11,
+   16,
    "OTHER",
-   "Ser Ilyn"
+   "Sansa"
+  ],
+  [
+   49,
+   0,
+   4,
+   "OTHER",
+   "Shae"
   ],
   [
    50,
@@ -748,6 +685,13 @@
   ],
   [
    52,
+   25,
+   36,
+   "OTHER",
+   "Iron Throne"
+  ],
+  [
+   52,
    0,
    6,
    "OTHER",
@@ -761,25 +705,11 @@
    "Tommen"
   ],
   [
-   52,
-   25,
-   36,
-   "OTHER",
-   "Iron Throne"
-  ],
-  [
    53,
    0,
    9,
    "OTHER",
    "The Hound"
-  ],
-  [
-   53,
-   17,
-   22,
-   "OTHER",
-   "Sansa"
   ],
   [
    53,
@@ -790,6 +720,13 @@
   ],
   [
    53,
+   17,
+   22,
+   "OTHER",
+   "Sansa"
+  ],
+  [
+   53,
    142,
    146,
    "OTHER",
@@ -797,17 +734,17 @@
   ],
   [
    55,
-   0,
-   6,
-   "OTHER",
-   "Cersei"
-  ],
-  [
-   55,
    19,
    30,
    "OTHER",
    "Iron Throne"
+  ],
+  [
+   55,
+   0,
+   6,
+   "OTHER",
+   "Cersei"
   ],
   [
    55,
@@ -881,13 +818,6 @@
   ],
   [
    62,
-   0,
-   5,
-   "OTHER",
-   "Tywin"
-  ],
-  [
-   62,
    84,
    90,
    "OTHER",
@@ -899,6 +829,13 @@
    110,
    "OTHER",
    "Tommen"
+  ],
+  [
+   62,
+   0,
+   5,
+   "OTHER",
+   "Tywin"
   ],
   [
    63,

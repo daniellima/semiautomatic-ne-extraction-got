@@ -37,26 +37,26 @@
   ],
   [
    4,
-   0,
-   5,
-   "OTHER",
-   "Weiss"
-  ],
-  [
-   4,
    44,
    55,
    "OTHER",
    "Alan Taylor"
+  ],
+  [
+   4,
+   0,
+   5,
+   "OTHER",
+   "Weiss"
   ]
  ],
  "plot": [
   [
    0,
-   0,
-   7,
+   67,
+   77,
    "OTHER",
-   "Stannis"
+   "Lannisters"
   ],
   [
    0,
@@ -67,24 +67,10 @@
   ],
   [
    0,
-   67,
-   77,
-   "OTHER",
-   "Lannisters"
-  ],
-  [
    0,
-   17,
-   22,
+   7,
    "OTHER",
-   "Davos"
-  ],
-  [
-   1,
-   19,
-   23,
-   "OTHER",
-   "Arya"
+   "Stannis"
   ],
   [
    1,
@@ -94,11 +80,11 @@
    "Gendry"
   ],
   [
-   2,
-   0,
-   10,
+   1,
+   19,
+   23,
    "OTHER",
-   "Robb Stark"
+   "Arya"
   ],
   [
    2,
@@ -115,6 +101,20 @@
    "Iron Islands"
   ],
   [
+   2,
+   0,
+   10,
+   "OTHER",
+   "Robb Stark"
+  ],
+  [
+   3,
+   42,
+   56,
+   "OTHER",
+   "King's Landing"
+  ],
+  [
    3,
    0,
    6,
@@ -127,13 +127,6 @@
    17,
    "OTHER",
    "Tyrion"
-  ],
-  [
-   3,
-   42,
-   56,
-   "OTHER",
-   "King's Landing"
   ]
  ],
  "summary/Across the Narrow Sea": [
@@ -153,36 +146,22 @@
   ],
   [
    2,
-   0,
-   7,
-   "OTHER",
-   "Rakharo"
-  ],
-  [
-   2,
    38,
    55,
    "OTHER",
    "Ser Jorah Mormont"
   ],
   [
-   3,
-   17,
-   24,
+   2,
+   0,
+   7,
    "OTHER",
    "Rakharo"
   ],
   [
-   4,
-   0,
-   4,
-   "OTHER",
-   "Irri"
-  ],
-  [
-   4,
-   73,
-   80,
+   3,
+   17,
+   24,
    "OTHER",
    "Rakharo"
   ],
@@ -199,6 +178,20 @@
    124,
    "OTHER",
    "Dothraki"
+  ],
+  [
+   4,
+   73,
+   80,
+   "OTHER",
+   "Rakharo"
+  ],
+  [
+   4,
+   0,
+   4,
+   "OTHER",
+   "Irri"
   ],
   [
    5,
@@ -245,13 +238,6 @@
    "Ghost"
   ],
   [
-   0,
-   0,
-   3,
-   "OTHER",
-   "Sam"
-  ],
-  [
    1,
    75,
    82,
@@ -273,27 +259,6 @@
    "Jon"
   ],
   [
-   2,
-   17,
-   20,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   2,
-   0,
-   3,
-   "OTHER",
-   "Sam"
-  ],
-  [
-   3,
-   0,
-   3,
-   "OTHER",
-   "Jon"
-  ],
-  [
    3,
    38,
    52,
@@ -309,13 +274,6 @@
   ],
   [
    3,
-   0,
-   3,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   4,
    0,
    3,
    "OTHER",
@@ -353,6 +311,13 @@
  "summary/In the Seven Kingdoms": [
   [
    0,
+   98,
+   111,
+   "OTHER",
+   "Night's Watch"
+  ],
+  [
+   0,
    7,
    17,
    "OTHER",
@@ -371,13 +336,6 @@
    89,
    "OTHER",
    "Yoren"
-  ],
-  [
-   0,
-   98,
-   111,
-   "OTHER",
-   "Night's Watch"
   ],
   [
    1,
@@ -402,13 +360,6 @@
   ],
   [
    1,
-   37,
-   42,
-   "OTHER",
-   "Jaqen"
-  ],
-  [
-   1,
    73,
    78,
    "OTHER",
@@ -430,17 +381,17 @@
   ],
   [
    3,
-   31,
-   36,
-   "OTHER",
-   "Royal"
-  ],
-  [
-   3,
    45,
    51,
    "OTHER",
    "Gendry"
+  ],
+  [
+   3,
+   31,
+   36,
+   "OTHER",
+   "Royal"
   ],
   [
    3,
@@ -451,24 +402,17 @@
   ],
   [
    5,
-   0,
-   4,
-   "OTHER",
-   "Arya"
-  ],
-  [
-   5,
    10,
    16,
    "OTHER",
    "Gendry"
   ],
   [
-   6,
-   39,
-   53,
+   5,
+   0,
+   4,
    "OTHER",
-   "Lord Jon Arryn"
+   "Arya"
   ],
   [
    6,
@@ -479,17 +423,17 @@
   ],
   [
    6,
+   39,
+   53,
+   "OTHER",
+   "Lord Jon Arryn"
+  ],
+  [
+   6,
    105,
    119,
    "OTHER",
    "King's Landing"
-  ],
-  [
-   6,
-   44,
-   47,
-   "OTHER",
-   "Jon"
   ],
   [
    8,
@@ -497,6 +441,20 @@
    4,
    "OTHER",
    "Arya"
+  ],
+  [
+   9,
+   76,
+   93,
+   "OTHER",
+   "Tower of the Hand"
+  ],
+  [
+   9,
+   52,
+   68,
+   "OTHER",
+   "Tyrion Lannister"
   ],
   [
    9,
@@ -520,20 +478,6 @@
    "Shae"
   ],
   [
-   9,
-   52,
-   68,
-   "OTHER",
-   "Tyrion Lannister"
-  ],
-  [
-   9,
-   76,
-   93,
-   "OTHER",
-   "Tower of the Hand"
-  ],
-  [
    10,
    0,
    6,
@@ -549,6 +493,13 @@
   ],
   [
    11,
+   80,
+   109,
+   "OTHER",
+   "Queen Regent Cersei Lannister"
+  ],
+  [
+   11,
    0,
    15,
    "OTHER",
@@ -560,13 +511,6 @@
    40,
    "OTHER",
    "King Robb Stark"
-  ],
-  [
-   11,
-   80,
-   109,
-   "OTHER",
-   "Queen Regent Cersei Lannister"
   ],
   [
    12,
@@ -591,17 +535,17 @@
   ],
   [
    14,
-   0,
-   3,
-   "OTHER",
-   "Ros"
-  ],
-  [
-   14,
    107,
    112,
    "OTHER",
    "Barra"
+  ],
+  [
+   14,
+   0,
+   3,
+   "OTHER",
+   "Ros"
   ],
   [
    15,
@@ -612,17 +556,17 @@
   ],
   [
    17,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   17,
    11,
    27,
    "OTHER",
    "Lord Janos Slynt"
+  ],
+  [
+   17,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
   ],
   [
    18,
@@ -630,6 +574,20 @@
    5,
    "OTHER",
    "Janos"
+  ],
+  [
+   19,
+   80,
+   107,
+   "OTHER",
+   "Commander of the City Watch"
+  ],
+  [
+   19,
+   44,
+   57,
+   "OTHER",
+   "Night's Watch"
   ],
   [
    19,
@@ -647,24 +605,10 @@
   ],
   [
    19,
-   44,
-   57,
-   "OTHER",
-   "Night's Watch"
-  ],
-  [
-   19,
    71,
    76,
    "OTHER",
    "Bronn"
-  ],
-  [
-   19,
-   80,
-   107,
-   "OTHER",
-   "Commander of the City Watch"
   ],
   [
    20,
@@ -703,24 +647,10 @@
   ],
   [
    25,
-   3,
-   14,
+   99,
+   121,
    "OTHER",
-   "Dragonstone"
-  ],
-  [
-   25,
-   16,
-   21,
-   "OTHER",
-   "Davos"
-  ],
-  [
-   25,
-   35,
-   41,
-   "OTHER",
-   "Lysene"
+   "King Stannis Baratheon"
   ],
   [
    25,
@@ -731,10 +661,17 @@
   ],
   [
    25,
-   99,
-   121,
+   3,
+   14,
    "OTHER",
-   "King Stannis Baratheon"
+   "Dragonstone"
+  ],
+  [
+   25,
+   35,
+   41,
+   "OTHER",
+   "Lysene"
   ],
   [
    25,
@@ -756,13 +693,6 @@
    113,
    "OTHER",
    "Lord of Light"
-  ],
-  [
-   26,
-   118,
-   123,
-   "OTHER",
-   "Davos"
   ],
   [
    26,
@@ -789,20 +719,6 @@
    27,
    19,
    26,
-   "OTHER",
-   "Stannis"
-  ],
-  [
-   28,
-   10,
-   17,
-   "OTHER",
-   "Stannis"
-  ],
-  [
-   28,
-   103,
-   110,
    "OTHER",
    "Stannis"
   ],
@@ -864,24 +780,24 @@
   ],
   [
    32,
-   43,
-   48,
-   "OTHER",
-   "Balon"
-  ],
-  [
-   32,
    136,
    147,
    "OTHER",
    "House Stark"
   ],
   [
-   33,
-   12,
-   22,
+   32,
+   43,
+   48,
    "OTHER",
-   "Robb Stark"
+   "Balon"
+  ],
+  [
+   33,
+   105,
+   135,
+   "OTHER",
+   "Balon King of the Iron Islands"
   ],
   [
    33,
@@ -893,9 +809,9 @@
   [
    33,
    12,
-   16,
+   22,
    "OTHER",
-   "Robb"
+   "Robb Stark"
   ],
   [
    33,
@@ -905,11 +821,11 @@
    "Robb"
   ],
   [
-   33,
-   105,
-   135,
+   34,
+   79,
+   84,
    "OTHER",
-   "Balon King of the Iron Islands"
+   "Balon"
   ],
   [
    34,
@@ -917,13 +833,6 @@
    73,
    "OTHER",
    "Yara"
-  ],
-  [
-   34,
-   79,
-   84,
-   "OTHER",
-   "Balon"
   ],
   [
    35,
@@ -941,6 +850,20 @@
   ],
   [
    37,
+   56,
+   66,
+   "OTHER",
+   "Lannisters"
+  ],
+  [
+   37,
+   123,
+   133,
+   "OTHER",
+   "Lannisters"
+  ],
+  [
+   37,
    5,
    10,
    "OTHER",
@@ -948,38 +871,10 @@
   ],
   [
    37,
-   56,
-   66,
-   "OTHER",
-   "Lannisters"
-  ],
-  [
-   37,
-   123,
-   133,
-   "OTHER",
-   "Lannisters"
-  ],
-  [
-   37,
    68,
    73,
    "OTHER",
    "Balon"
-  ],
-  [
-   37,
-   56,
-   66,
-   "OTHER",
-   "Lannisters"
-  ],
-  [
-   37,
-   123,
-   133,
-   "OTHER",
-   "Lannisters"
   ]
  ]
 }

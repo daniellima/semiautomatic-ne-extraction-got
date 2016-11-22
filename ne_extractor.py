@@ -57,7 +57,9 @@ whitelist = {
     "Lord Roose Bolton of the Dreadfort",
     "Lord Blackmont",
     "High Priestess of the Red Temple of Volantis",
-    "Dornish Lords"
+    "Dornish Lords",
+    "Princess Shireen of House Baratheon",
+    "House of Black & White"
 }
 
 blacklisted_entities = {
@@ -164,7 +166,8 @@ blacklisted_entities = {
     "Bastards",
     "Broken Things",
     "Ravens",
-    "Stick"
+    "Stick",
+    "House of Black"
 }
 
 blacklisted_words = {
@@ -580,13 +583,14 @@ def extract_entities_from_line(line):
 
 def find_position_on_line(entities, line):
     entities_with_position = []
-    for en in entities:
+    for en in sorted(entities, key=lambda _: len(_.original), reverse=True):
         for match in re.finditer(en.original, line):
             new_en = EN(en.original)
             new_en.sentence = en.sentence
             new_en.start_index = match.start()
             new_en.end_index = match.end()
             entities_with_position.append(new_en)
+        line = line.replace(en.original, "X"*len(en.original))
 
     return entities_with_position
 

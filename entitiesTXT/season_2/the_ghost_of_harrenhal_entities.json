@@ -37,17 +37,17 @@
   ],
   [
    4,
-   0,
-   5,
-   "OTHER",
-   "Weiss"
-  ],
-  [
-   4,
    22,
    36,
    "OTHER",
    "David Petrarca"
+  ],
+  [
+   4,
+   0,
+   5,
+   "OTHER",
+   "Weiss"
   ]
  ],
  "plot": [
@@ -60,17 +60,17 @@
   ],
   [
    1,
-   0,
-   7,
-   "OTHER",
-   "Catelyn"
-  ],
-  [
-   1,
    42,
    54,
    "OTHER",
    "Littlefinger"
+  ],
+  [
+   1,
+   0,
+   7,
+   "OTHER",
+   "Catelyn"
   ],
   [
    2,
@@ -81,24 +81,17 @@
   ],
   [
    3,
-   0,
-   4,
-   "OTHER",
-   "Arya"
-  ],
-  [
-   3,
    43,
    55,
    "OTHER",
    "Jaqen H'ghar"
   ],
   [
-   4,
+   3,
    0,
-   17,
+   4,
    "OTHER",
-   "The Night's Watch"
+   "Arya"
   ],
   [
    4,
@@ -106,6 +99,13 @@
    54,
    "OTHER",
    "Fist of the First Men"
+  ],
+  [
+   4,
+   0,
+   17,
+   "OTHER",
+   "The Night's Watch"
   ],
   [
    5,
@@ -146,24 +146,17 @@
   ],
   [
    4,
-   46,
-   55,
-   "OTHER",
-   "Pyat Pree"
-  ],
-  [
-   4,
    86,
    106,
    "OTHER",
    "House of the Undying"
   ],
   [
-   5,
-   17,
-   24,
+   4,
+   46,
+   55,
    "OTHER",
-   "Quaithe"
+   "Pyat Pree"
   ],
   [
    5,
@@ -180,11 +173,11 @@
    "Daenerys"
   ],
   [
-   6,
-   0,
-   4,
+   5,
+   17,
+   24,
    "OTHER",
-   "Xaro"
+   "Quaithe"
   ],
   [
    6,
@@ -199,6 +192,13 @@
    51,
    "OTHER",
    "Westeros"
+  ],
+  [
+   6,
+   0,
+   4,
+   "OTHER",
+   "Xaro"
   ],
   [
    7,
@@ -218,6 +218,13 @@
  "summary/Beyond the Wall": [
   [
    0,
+   35,
+   56,
+   "OTHER",
+   "Fist of the First Men"
+  ],
+  [
+   0,
    0,
    17,
    "OTHER",
@@ -229,13 +236,6 @@
    27,
    "OTHER",
    "Ghost"
-  ],
-  [
-   0,
-   35,
-   56,
-   "OTHER",
-   "Fist of the First Men"
   ],
   [
    1,
@@ -260,6 +260,13 @@
   ],
   [
    2,
+   100,
+   133,
+   "OTHER",
+   "King-Beyond-the-Wall Mance Rayder"
+  ],
+  [
+   2,
    0,
    6,
    "OTHER",
@@ -273,11 +280,11 @@
    "Jeor"
   ],
   [
-   2,
-   100,
-   133,
+   3,
+   78,
+   91,
    "OTHER",
-   "King-Beyond-the-Wall Mance Rayder"
+   "Skirling Pass"
   ],
   [
    3,
@@ -287,11 +294,18 @@
    "Mance"
   ],
   [
-   3,
-   78,
-   91,
+   4,
+   84,
+   111,
    "OTHER",
-   "Skirling Pass"
+   "Lord Commander Jeor Mormont"
+  ],
+  [
+   4,
+   37,
+   50,
+   "OTHER",
+   "Samwell Tarly"
   ],
   [
    4,
@@ -306,34 +320,6 @@
    21,
    "OTHER",
    "Qhorin"
-  ],
-  [
-   4,
-   37,
-   50,
-   "OTHER",
-   "Samwell Tarly"
-  ],
-  [
-   4,
-   84,
-   111,
-   "OTHER",
-   "Lord Commander Jeor Mormont"
-  ],
-  [
-   4,
-   0,
-   3,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   4,
-   37,
-   40,
-   "OTHER",
-   "Sam"
   ]
  ],
  "summary/In the Seven Kingdoms": [
@@ -353,20 +339,6 @@
   ],
   [
    1,
-   44,
-   50,
-   "OTHER",
-   "Shadow"
-  ],
-  [
-   1,
-   77,
-   87,
-   "OTHER",
-   "Melisandre"
-  ],
-  [
-   1,
    104,
    121,
    "OTHER",
@@ -380,11 +352,18 @@
    "King Robb Stark"
   ],
   [
-   2,
-   15,
-   22,
+   1,
+   77,
+   87,
    "OTHER",
-   "Brienne"
+   "Melisandre"
+  ],
+  [
+   1,
+   44,
+   50,
+   "OTHER",
+   "Shadow"
   ],
   [
    2,
@@ -392,6 +371,13 @@
    99,
    "OTHER",
    "Catelyn Stark"
+  ],
+  [
+   2,
+   15,
+   22,
+   "OTHER",
+   "Brienne"
   ],
   [
    3,
@@ -409,10 +395,10 @@
   ],
   [
    4,
-   0,
-   5,
+   132,
+   154,
    "OTHER",
-   "Renly"
+   "King Stannis Baratheon"
   ],
   [
    4,
@@ -430,10 +416,10 @@
   ],
   [
    4,
-   132,
-   154,
+   0,
+   5,
    "OTHER",
-   "King Stannis Baratheon"
+   "Renly"
   ],
   [
    5,
@@ -444,17 +430,17 @@
   ],
   [
    5,
-   35,
-   41,
-   "OTHER",
-   "Tyrell"
-  ],
-  [
-   5,
    90,
    97,
    "OTHER",
    "Joffrey"
+  ],
+  [
+   5,
+   35,
+   41,
+   "OTHER",
+   "Tyrell"
   ],
   [
    6,
@@ -462,6 +448,13 @@
    18,
    "OTHER",
    "Ser Davos Seaworth"
+  ],
+  [
+   6,
+   138,
+   152,
+   "OTHER",
+   "King's Landing"
   ],
   [
    6,
@@ -485,46 +478,11 @@
    "Melisandre"
   ],
   [
-   6,
-   57,
-   67,
-   "OTHER",
-   "Melisandre"
-  ],
-  [
-   6,
-   103,
-   113,
-   "OTHER",
-   "Melisandre"
-  ],
-  [
-   6,
-   138,
-   152,
-   "OTHER",
-   "King's Landing"
-  ],
-  [
-   6,
-   4,
-   9,
-   "OTHER",
-   "Davos"
-  ],
-  [
    7,
    0,
    7,
    "OTHER",
    "Stannis"
-  ],
-  [
-   7,
-   15,
-   20,
-   "OTHER",
-   "Davos"
   ],
   [
    7,
@@ -542,24 +500,17 @@
   ],
   [
    8,
-   49,
-   54,
-   "OTHER",
-   "Renly"
-  ],
-  [
-   8,
    78,
    107,
    "OTHER",
    "Queen Regent Cersei Lannister"
   ],
   [
-   9,
-   20,
-   26,
+   8,
+   49,
+   54,
    "OTHER",
-   "Tyrion"
+   "Renly"
   ],
   [
    9,
@@ -569,11 +520,25 @@
    "Stannis"
   ],
   [
+   9,
+   20,
+   26,
+   "OTHER",
+   "Tyrion"
+  ],
+  [
    11,
    25,
    45,
    "OTHER",
    "Ser Lancel Lannister"
+  ],
+  [
+   11,
+   117,
+   134,
+   "OTHER",
+   "Alchemists' Guild"
   ],
   [
    11,
@@ -590,11 +555,11 @@
    "Cersei"
   ],
   [
-   11,
-   117,
-   134,
+   12,
+   16,
+   26,
    "OTHER",
-   "Alchemists' Guild"
+   "Kingsguard"
   ],
   [
    12,
@@ -602,13 +567,6 @@
    7,
    "OTHER",
    "Brienne"
-  ],
-  [
-   12,
-   16,
-   26,
-   "OTHER",
-   "Kingsguard"
   ],
   [
    13,
@@ -633,17 +591,17 @@
   ],
   [
    15,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   15,
    14,
    21,
    "OTHER",
    "Hallyne"
+  ],
+  [
+   15,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
   ],
   [
    15,
@@ -654,38 +612,24 @@
   ],
   [
    16,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   16,
-   94,
-   100,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   16,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   16,
-   94,
-   100,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   16,
    120,
    127,
    "OTHER",
    "Joffrey"
+  ],
+  [
+   16,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
+  ],
+  [
+   16,
+   94,
+   100,
+   "OTHER",
+   "Tyrion"
   ],
   [
    17,
@@ -696,24 +640,17 @@
   ],
   [
    18,
-   15,
-   30,
-   "OTHER",
-   "Dagmer Cleftjaw"
-  ],
-  [
-   18,
-   87,
-   92,
-   "OTHER",
-   "Theon"
-  ],
-  [
-   18,
    107,
    123,
    "OTHER",
    "Torrhen's Square"
+  ],
+  [
+   18,
+   15,
+   30,
+   "OTHER",
+   "Dagmer Cleftjaw"
   ],
   [
    18,
@@ -728,6 +665,13 @@
    183,
    "OTHER",
    "Winterfell"
+  ],
+  [
+   18,
+   87,
+   92,
+   "OTHER",
+   "Theon"
   ],
   [
    19,
@@ -752,17 +696,17 @@
   ],
   [
    21,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   21,
    21,
    29,
    "OTHER",
    "Wildfire"
+  ],
+  [
+   21,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
   ],
   [
    22,
@@ -843,24 +787,17 @@
   ],
   [
    30,
-   16,
-   23,
-   "OTHER",
-   "Tickler"
-  ],
-  [
-   30,
    25,
    43,
    "OTHER",
    "Ser Gregor Clegane"
   ],
   [
-   31,
-   0,
-   11,
+   30,
+   16,
+   23,
    "OTHER",
-   "The Tickler"
+   "Tickler"
   ],
   [
    31,
@@ -868,13 +805,6 @@
    11,
    "OTHER",
    "The Tickler"
-  ],
-  [
-   32,
-   0,
-   4,
-   "OTHER",
-   "Arya"
   ],
   [
    32,
@@ -882,6 +812,13 @@
    18,
    "OTHER",
    "Jaqen"
+  ],
+  [
+   32,
+   0,
+   4,
+   "OTHER",
+   "Arya"
   ]
  ]
 }

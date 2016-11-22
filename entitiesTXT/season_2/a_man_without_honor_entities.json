@@ -2,17 +2,17 @@
  "info": [
   [
    0,
-   69,
-   84,
-   "OTHER",
-   "Game of Thrones"
-  ],
-  [
-   0,
    1,
    20,
    "OTHER",
    "A Man Without Honor"
+  ],
+  [
+   0,
+   69,
+   84,
+   "OTHER",
+   "Game of Thrones"
   ],
   [
    2,
@@ -37,17 +37,17 @@
   ],
   [
    4,
-   0,
-   5,
-   "OTHER",
-   "Weiss"
-  ],
-  [
-   4,
    22,
    34,
    "OTHER",
    "David Nutter"
+  ],
+  [
+   4,
+   0,
+   5,
+   "OTHER",
+   "Weiss"
   ]
  ],
  "plot": [
@@ -76,10 +76,10 @@
  "summary/Beyond the Wall": [
   [
    0,
-   0,
-   8,
+   73,
+   88,
    "OTHER",
-   "Jon Snow"
+   "Qhorin Halfhand"
   ],
   [
    0,
@@ -90,17 +90,10 @@
   ],
   [
    0,
-   73,
-   88,
-   "OTHER",
-   "Qhorin Halfhand"
-  ],
-  [
    0,
-   0,
-   3,
+   8,
    "OTHER",
-   "Jon"
+   "Jon Snow"
   ],
   [
    1,
@@ -108,13 +101,6 @@
    72,
    "OTHER",
    "Ygritte"
-  ],
-  [
-   2,
-   16,
-   19,
-   "OTHER",
-   "Jon"
   ],
   [
    2,
@@ -146,31 +132,10 @@
   ],
   [
    3,
-   56,
-   65,
-   "OTHER",
-   "Wildlings"
-  ],
-  [
-   3,
-   95,
-   104,
-   "OTHER",
-   "Wildlings"
-  ],
-  [
-   3,
    161,
    165,
    "OTHER",
    "Wall"
-  ],
-  [
-   4,
-   10,
-   13,
-   "OTHER",
-   "Jon"
   ],
   [
    4,
@@ -185,13 +150,6 @@
    7,
    "OTHER",
    "Ygritte"
-  ],
-  [
-   7,
-   18,
-   21,
-   "OTHER",
-   "Jon"
   ],
   [
    7,
@@ -225,17 +183,24 @@
   ],
   [
    3,
+   16,
+   33,
+   "OTHER",
+   "Quaithe of Asshai"
+  ],
+  [
+   3,
    0,
    5,
    "OTHER",
    "Jorah"
   ],
   [
-   3,
-   16,
-   33,
+   4,
+   39,
+   47,
    "OTHER",
-   "Quaithe of Asshai"
+   "Daenerys"
   ],
   [
    4,
@@ -252,9 +217,9 @@
    "Jorah"
   ],
   [
-   4,
-   39,
-   47,
+   5,
+   71,
+   79,
    "OTHER",
    "Daenerys"
   ],
@@ -273,18 +238,11 @@
    "Jorah"
   ],
   [
-   5,
-   71,
-   79,
-   "OTHER",
-   "Daenerys"
-  ],
-  [
    6,
-   0,
-   5,
+   78,
+   90,
    "OTHER",
-   "Jorah"
+   "The Thirteen"
   ],
   [
    6,
@@ -302,17 +260,10 @@
   ],
   [
    6,
-   78,
-   90,
+   0,
+   5,
    "OTHER",
-   "The Thirteen"
-  ],
-  [
-   7,
-   12,
-   21,
-   "OTHER",
-   "Pyat Pree"
+   "Jorah"
   ],
   [
    7,
@@ -322,11 +273,11 @@
    "Xaro the King of Qarth"
   ],
   [
-   8,
-   77,
-   85,
+   7,
+   12,
+   21,
    "OTHER",
-   "Thirteen"
+   "Pyat Pree"
   ],
   [
    8,
@@ -337,15 +288,15 @@
   ],
   [
    8,
-   137,
-   141,
+   77,
+   85,
    "OTHER",
-   "Xaro"
+   "Thirteen"
   ],
   [
-   9,
-   0,
-   4,
+   8,
+   137,
+   141,
    "OTHER",
    "Xaro"
   ],
@@ -355,6 +306,20 @@
    53,
    "OTHER",
    "Pyat Pree"
+  ],
+  [
+   9,
+   0,
+   4,
+   "OTHER",
+   "Xaro"
+  ],
+  [
+   10,
+   52,
+   72,
+   "OTHER",
+   "House of the Undying"
   ],
   [
    10,
@@ -369,23 +334,9 @@
    24,
    "OTHER",
    "Daenerys"
-  ],
-  [
-   10,
-   52,
-   72,
-   "OTHER",
-   "House of the Undying"
   ]
  ],
  "summary/In the Seven Kingdoms": [
-  [
-   0,
-   3,
-   13,
-   "OTHER",
-   "Winterfell"
-  ],
   [
    0,
    41,
@@ -395,17 +346,17 @@
   ],
   [
    0,
-   76,
-   80,
+   133,
+   145,
    "OTHER",
-   "Osha"
+   "Rickon Stark"
   ],
   [
    0,
-   114,
-   119,
+   3,
+   13,
    "OTHER",
-   "Hodor"
+   "Winterfell"
   ],
   [
    0,
@@ -416,17 +367,17 @@
   ],
   [
    0,
-   133,
-   145,
+   114,
+   119,
    "OTHER",
-   "Rickon Stark"
+   "Hodor"
   ],
   [
-   1,
    0,
-   5,
+   76,
+   80,
    "OTHER",
-   "Theon"
+   "Osha"
   ],
   [
    1,
@@ -434,6 +385,13 @@
    20,
    "OTHER",
    "Lorren"
+  ],
+  [
+   1,
+   0,
+   5,
+   "OTHER",
+   "Theon"
   ],
   [
    2,
@@ -464,20 +422,6 @@
    "Osha"
   ],
   [
-   2,
-   26,
-   31,
-   "OTHER",
-   "Theon"
-  ],
-  [
-   2,
-   100,
-   105,
-   "OTHER",
-   "Theon"
-  ],
-  [
    3,
    0,
    5,
@@ -493,24 +437,17 @@
   ],
   [
    5,
-   51,
-   55,
-   "OTHER",
-   "Bran"
-  ],
-  [
-   5,
    60,
    66,
    "OTHER",
    "Rickon"
   ],
   [
-   6,
-   0,
    5,
+   51,
+   55,
    "OTHER",
-   "Theon"
+   "Bran"
   ],
   [
    6,
@@ -527,7 +464,7 @@
    "Winterfell"
   ],
   [
-   7,
+   6,
    0,
    5,
    "OTHER",
@@ -541,7 +478,7 @@
    "Winterfell"
   ],
   [
-   8,
+   7,
    0,
    5,
    "OTHER",
@@ -555,6 +492,13 @@
    "Winterfell"
   ],
   [
+   8,
+   0,
+   5,
+   "OTHER",
+   "Theon"
+  ],
+  [
    9,
    0,
    13,
@@ -563,10 +507,10 @@
   ],
   [
    10,
-   3,
-   12,
+   82,
+   100,
    "OTHER",
-   "Harrenhal"
+   "Ser Gregor Clegane"
   ],
   [
    10,
@@ -584,17 +528,10 @@
   ],
   [
    10,
-   82,
-   100,
+   3,
+   12,
    "OTHER",
-   "Ser Gregor Clegane"
-  ],
-  [
-   11,
-   0,
-   5,
-   "OTHER",
-   "Tywin"
+   "Harrenhal"
   ],
   [
    11,
@@ -605,24 +542,24 @@
   ],
   [
    11,
-   110,
-   115,
-   "OTHER",
-   "Lorch"
-  ],
-  [
-   11,
    134,
    144,
    "OTHER",
    "Arya Stark"
   ],
   [
-   12,
+   11,
    0,
-   10,
+   5,
    "OTHER",
-   "Ser Gregor"
+   "Tywin"
+  ],
+  [
+   11,
+   110,
+   115,
+   "OTHER",
+   "Lorch"
   ],
   [
    12,
@@ -632,11 +569,11 @@
    "Brotherhood Without Banners"
   ],
   [
-   13,
-   9,
-   14,
+   12,
+   0,
+   10,
    "OTHER",
-   "Tywin"
+   "Ser Gregor"
   ],
   [
    13,
@@ -644,6 +581,13 @@
    28,
    "OTHER",
    "Gregor"
+  ],
+  [
+   13,
+   9,
+   14,
+   "OTHER",
+   "Tywin"
   ],
   [
    14,
@@ -675,17 +619,17 @@
   ],
   [
    15,
-   0,
-   4,
-   "OTHER",
-   "Arya"
-  ],
-  [
-   15,
    31,
    37,
    "OTHER",
    "Mother"
+  ],
+  [
+   15,
+   0,
+   4,
+   "OTHER",
+   "Arya"
   ],
   [
    16,
@@ -703,13 +647,6 @@
   ],
   [
    16,
-   46,
-   52,
-   "OTHER",
-   "Sandor"
-  ],
-  [
-   16,
    54,
    63,
    "OTHER",
@@ -723,6 +660,13 @@
    "Clegane"
   ],
   [
+   16,
+   46,
+   52,
+   "OTHER",
+   "Sandor"
+  ],
+  [
    17,
    0,
    6,
@@ -731,10 +675,10 @@
   ],
   [
    18,
-   0,
-   5,
+   165,
+   177,
    "OTHER",
-   "Sansa"
+   "King Joffrey"
   ],
   [
    18,
@@ -745,10 +689,10 @@
   ],
   [
    18,
-   165,
-   177,
+   0,
+   5,
    "OTHER",
-   "King Joffrey"
+   "Sansa"
   ],
   [
    19,
@@ -787,10 +731,10 @@
   ],
   [
    22,
-   0,
-   4,
+   45,
+   51,
    "OTHER",
-   "Shae"
+   "Sandor"
   ],
   [
    22,
@@ -801,10 +745,17 @@
   ],
   [
    22,
-   45,
-   51,
+   0,
+   4,
    "OTHER",
-   "Sandor"
+   "Shae"
+  ],
+  [
+   23,
+   71,
+   100,
+   "OTHER",
+   "Queen Regent Cersei Lannister"
   ],
   [
    23,
@@ -821,11 +772,18 @@
    "Sansa"
   ],
   [
-   23,
-   71,
-   100,
+   24,
+   106,
+   127,
    "OTHER",
-   "Queen Regent Cersei Lannister"
+   "King Robert Baratheon"
+  ],
+  [
+   24,
+   44,
+   51,
+   "OTHER",
+   "Joffrey"
   ],
   [
    24,
@@ -838,34 +796,6 @@
    24,
    16,
    21,
-   "OTHER",
-   "Sansa"
-  ],
-  [
-   24,
-   44,
-   51,
-   "OTHER",
-   "Joffrey"
-  ],
-  [
-   24,
-   106,
-   127,
-   "OTHER",
-   "King Robert Baratheon"
-  ],
-  [
-   25,
-   42,
-   47,
-   "OTHER",
-   "Sansa"
-  ],
-  [
-   25,
-   185,
-   190,
    "OTHER",
    "Sansa"
   ],
@@ -905,41 +835,6 @@
    "Sansa"
   ],
   [
-   25,
-   172,
-   179,
-   "OTHER",
-   "Joffrey"
-  ],
-  [
-   25,
-   230,
-   237,
-   "OTHER",
-   "Joffrey"
-  ],
-  [
-   26,
-   0,
-   6,
-   "OTHER",
-   "Cersei"
-  ],
-  [
-   26,
-   28,
-   33,
-   "OTHER",
-   "Sansa"
-  ],
-  [
-   26,
-   93,
-   98,
-   "OTHER",
-   "Sansa"
-  ],
-  [
    26,
    38,
    45,
@@ -948,6 +843,13 @@
   ],
   [
    26,
+   0,
+   6,
+   "OTHER",
+   "Cersei"
+  ],
+  [
+   26,
    28,
    33,
    "OTHER",
@@ -962,17 +864,17 @@
   ],
   [
    27,
-   0,
-   6,
-   "OTHER",
-   "Cersei"
-  ],
-  [
-   27,
    44,
    51,
    "OTHER",
    "Joffrey"
+  ],
+  [
+   27,
+   0,
+   6,
+   "OTHER",
+   "Cersei"
   ],
   [
    28,
@@ -1011,17 +913,17 @@
   ],
   [
    30,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   30,
    57,
    65,
    "OTHER",
    "Myrcella"
+  ],
+  [
+   30,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
   ],
   [
    30,
@@ -1053,13 +955,6 @@
   ],
   [
    32,
-   38,
-   49,
-   "OTHER",
-   "Westerlands"
-  ],
-  [
-   32,
    82,
    97,
    "OTHER",
@@ -1074,10 +969,10 @@
   ],
   [
    32,
-   8,
-   12,
+   38,
+   49,
    "OTHER",
-   "Robb"
+   "Westerlands"
   ],
   [
    32,
@@ -1088,10 +983,10 @@
   ],
   [
    33,
-   0,
-   4,
+   79,
+   94,
    "OTHER",
-   "Robb"
+   "Jaime Lannister"
   ],
   [
    33,
@@ -1102,10 +997,10 @@
   ],
   [
    33,
-   79,
-   94,
+   0,
+   4,
    "OTHER",
-   "Jaime Lannister"
+   "Robb"
   ],
   [
    34,
@@ -1137,6 +1032,13 @@
   ],
   [
    36,
+   49,
+   65,
+   "OTHER",
+   "Torrhen Karstark"
+  ],
+  [
+   36,
    12,
    17,
    "OTHER",
@@ -1150,11 +1052,11 @@
    "Alton"
   ],
   [
-   36,
-   49,
-   65,
+   37,
+   16,
+   23,
    "OTHER",
-   "Torrhen Karstark"
+   "Torrhen"
   ],
   [
    37,
@@ -1164,11 +1066,11 @@
    "Jaime"
   ],
   [
-   37,
-   16,
+   38,
    23,
+   44,
    "OTHER",
-   "Torrhen"
+   "Lord Rickard Karstark"
   ],
   [
    38,
@@ -1176,13 +1078,6 @@
    7,
    "OTHER",
    "Torrhen"
-  ],
-  [
-   38,
-   23,
-   44,
-   "OTHER",
-   "Lord Rickard Karstark"
   ],
   [
    38,
@@ -1249,20 +1144,6 @@
   ],
   [
    44,
-   0,
-   5,
-   "OTHER",
-   "Jaime"
-  ],
-  [
-   44,
-   41,
-   47,
-   "OTHER",
-   "Cersei"
-  ],
-  [
-   44,
    71,
    83,
    "OTHER",
@@ -1277,10 +1158,10 @@
   ],
   [
    44,
-   71,
-   77,
+   41,
+   47,
    "OTHER",
-   "Eddard"
+   "Cersei"
   ],
   [
    44,
@@ -1288,6 +1169,13 @@
    143,
    "OTHER",
    "Eddard"
+  ],
+  [
+   44,
+   0,
+   5,
+   "OTHER",
+   "Jaime"
   ],
   [
    45,

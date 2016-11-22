@@ -3,9 +3,9 @@
   [
    0,
    1,
-   9,
+   22,
    "OTHER",
-   "The Wolf"
+   "The Wolf and the Lion"
   ],
   [
    0,
@@ -13,13 +13,6 @@
    83,
    "OTHER",
    "Game of Thrones"
-  ],
-  [
-   0,
-   1,
-   22,
-   "OTHER",
-   "The Wolf and the Lion"
   ],
   [
    1,
@@ -44,27 +37,20 @@
   ],
   [
    3,
-   0,
-   5,
-   "OTHER",
-   "Weiss"
-  ],
-  [
-   3,
    22,
    32,
    "OTHER",
    "Brian Kirk"
+  ],
+  [
+   3,
+   0,
+   5,
+   "OTHER",
+   "Weiss"
   ]
  ],
  "plot": [
-  [
-   0,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
   [
    0,
    49,
@@ -80,11 +66,11 @@
    "Eddard Stark"
   ],
   [
-   1,
    0,
-   3,
+   0,
+   6,
    "OTHER",
-   "Ned"
+   "Tyrion"
   ],
   [
    1,
@@ -115,11 +101,11 @@
    "Westeros"
   ],
   [
-   2,
-   7,
-   12,
+   1,
+   0,
+   3,
    "OTHER",
-   "Eyrie"
+   "Ned"
   ],
   [
    2,
@@ -130,6 +116,13 @@
   ],
   [
    2,
+   7,
+   12,
+   "OTHER",
+   "Eyrie"
+  ],
+  [
+   2,
    47,
    51,
    "OTHER",
@@ -137,13 +130,6 @@
   ]
  ],
  "summary/In King's Landing": [
-  [
-   0,
-   0,
-   17,
-   "OTHER",
-   "Lord Eddard Stark"
-  ],
   [
    0,
    60,
@@ -157,6 +143,13 @@
    130,
    "OTHER",
    "Ser Hugh of the Vale"
+  ],
+  [
+   0,
+   0,
+   17,
+   "OTHER",
+   "Lord Eddard Stark"
   ],
   [
    1,
@@ -174,24 +167,17 @@
   ],
   [
    2,
-   0,
-   6,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   2,
    24,
    32,
    "OTHER",
    "Ser Hugh"
   ],
   [
-   3,
+   2,
    0,
-   9,
+   6,
    "OTHER",
-   "Barristan"
+   "Eddard"
   ],
   [
    3,
@@ -199,6 +185,13 @@
    100,
    "OTHER",
    "Robert's Rebellion"
+  ],
+  [
+   3,
+   0,
+   9,
+   "OTHER",
+   "Barristan"
   ],
   [
    4,
@@ -223,24 +216,24 @@
   ],
   [
    5,
-   14,
-   20,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   5,
    26,
    37,
    "OTHER",
    "King Robert"
   ],
   [
-   6,
-   0,
-   6,
+   5,
+   14,
+   20,
    "OTHER",
    "Eddard"
+  ],
+  [
+   6,
+   48,
+   64,
+   "OTHER",
+   "Lancel Lannister"
   ],
   [
    6,
@@ -251,10 +244,10 @@
   ],
   [
    6,
-   48,
-   64,
+   0,
+   6,
    "OTHER",
-   "Lancel Lannister"
+   "Eddard"
   ],
   [
    7,
@@ -279,6 +272,13 @@
   ],
   [
    9,
+   101,
+   122,
+   "OTHER",
+   "Knight of the Flowers"
+  ],
+  [
+   9,
    50,
    68,
    "OTHER",
@@ -292,25 +292,11 @@
    "Ser Loras Tyrell"
   ],
   [
-   9,
-   101,
-   122,
-   "OTHER",
-   "Knight of the Flowers"
-  ],
-  [
    10,
-   0,
-   5,
+   53,
+   65,
    "OTHER",
-   "Loras"
-  ],
-  [
-   10,
-   132,
-   137,
-   "OTHER",
-   "Loras"
+   "Littlefinger"
   ],
   [
    10,
@@ -321,31 +307,10 @@
   ],
   [
    10,
-   53,
-   65,
-   "OTHER",
-   "Littlefinger"
-  ],
-  [
-   10,
    70,
    80,
    "OTHER",
    "Lord Renly"
-  ],
-  [
-   10,
-   75,
-   80,
-   "OTHER",
-   "Renly"
-  ],
-  [
-   10,
-   115,
-   120,
-   "OTHER",
-   "Renly"
   ],
   [
    10,
@@ -360,6 +325,13 @@
    137,
    "OTHER",
    "Loras"
+  ],
+  [
+   10,
+   115,
+   120,
+   "OTHER",
+   "Renly"
   ],
   [
    11,
@@ -377,17 +349,17 @@
   ],
   [
    13,
-   24,
-   30,
-   "OTHER",
-   "Gregor"
-  ],
-  [
-   13,
    76,
    85,
    "OTHER",
    "Ser Loras"
+  ],
+  [
+   13,
+   24,
+   30,
+   "OTHER",
+   "Gregor"
   ],
   [
    14,
@@ -447,17 +419,17 @@
   ],
   [
    18,
-   7,
-   15,
-   "OTHER",
-   "Red Keep"
-  ],
-  [
-   18,
    17,
    27,
    "OTHER",
    "Lord Varys"
+  ],
+  [
+   18,
+   7,
+   15,
+   "OTHER",
+   "Red Keep"
   ],
   [
    18,
@@ -468,17 +440,17 @@
   ],
   [
    19,
-   0,
-   5,
-   "OTHER",
-   "Varys"
-  ],
-  [
-   19,
    69,
    75,
    "OTHER",
    "Eddard"
+  ],
+  [
+   19,
+   0,
+   5,
+   "OTHER",
+   "Varys"
   ],
   [
    20,
@@ -496,17 +468,17 @@
   ],
   [
    21,
-   0,
-   5,
-   "OTHER",
-   "Varys"
-  ],
-  [
-   21,
    34,
    40,
    "OTHER",
    "Eddard"
+  ],
+  [
+   21,
+   0,
+   5,
+   "OTHER",
+   "Varys"
   ],
   [
    22,
@@ -514,13 +486,6 @@
    15,
    "OTHER",
    "Eddard"
-  ],
-  [
-   23,
-   22,
-   31,
-   "OTHER",
-   "Jon Arryn"
   ],
   [
    23,
@@ -532,9 +497,9 @@
   [
    23,
    22,
-   25,
+   31,
    "OTHER",
-   "Jon"
+   "Jon Arryn"
   ],
   [
    24,
@@ -552,17 +517,17 @@
   ],
   [
    26,
-   20,
-   25,
-   "OTHER",
-   "Varys"
-  ],
-  [
-   26,
    30,
    64,
    "OTHER",
    "Magister Illyrio Mopatis of Pentos"
+  ],
+  [
+   26,
+   20,
+   25,
+   "OTHER",
+   "Varys"
   ],
   [
    27,
@@ -615,13 +580,6 @@
   ],
   [
    31,
-   0,
-   6,
-   "OTHER",
-   "Sandor"
-  ],
-  [
-   31,
    8,
    18,
    "OTHER",
@@ -635,11 +593,11 @@
    "Ser Loras"
   ],
   [
-   32,
-   12,
-   17,
+   31,
+   0,
+   6,
    "OTHER",
-   "Varys"
+   "Sandor"
   ],
   [
    32,
@@ -650,6 +608,13 @@
   ],
   [
    32,
+   70,
+   81,
+   "OTHER",
+   "Iron Throne"
+  ],
+  [
+   32,
    44,
    54,
    "OTHER",
@@ -657,45 +622,10 @@
   ],
   [
    32,
-   70,
-   81,
-   "OTHER",
-   "Iron Throne"
-  ],
-  [
-   33,
-   0,
-   5,
+   12,
+   17,
    "OTHER",
    "Varys"
-  ],
-  [
-   33,
-   34,
-   46,
-   "OTHER",
-   "Littlefinger"
-  ],
-  [
-   33,
-   119,
-   131,
-   "OTHER",
-   "Littlefinger"
-  ],
-  [
-   33,
-   63,
-   69,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   33,
-   89,
-   98,
-   "OTHER",
-   "Jon Arryn"
   ],
   [
    33,
@@ -721,9 +651,23 @@
   [
    33,
    89,
-   92,
+   98,
    "OTHER",
-   "Jon"
+   "Jon Arryn"
+  ],
+  [
+   33,
+   63,
+   69,
+   "OTHER",
+   "Eddard"
+  ],
+  [
+   33,
+   0,
+   5,
+   "OTHER",
+   "Varys"
   ],
   [
    34,
@@ -734,24 +678,10 @@
   ],
   [
    34,
-   62,
-   67,
+   182,
+   192,
    "OTHER",
-   "Varys"
-  ],
-  [
-   34,
-   152,
-   157,
-   "OTHER",
-   "Varys"
-  ],
-  [
-   34,
-   89,
-   95,
-   "OTHER",
-   "Eddard"
+   "Narrow Sea"
   ],
   [
    34,
@@ -762,6 +692,13 @@
   ],
   [
    34,
+   89,
+   95,
+   "OTHER",
+   "Eddard"
+  ],
+  [
+   34,
    62,
    67,
    "OTHER",
@@ -775,11 +712,11 @@
    "Varys"
   ],
   [
-   34,
-   182,
-   192,
+   35,
+   66,
+   72,
    "OTHER",
-   "Narrow Sea"
+   "Robert"
   ],
   [
    35,
@@ -787,13 +724,6 @@
    42,
    "OTHER",
    "Renly"
-  ],
-  [
-   35,
-   66,
-   72,
-   "OTHER",
-   "Robert"
   ],
   [
    36,
@@ -804,10 +734,10 @@
   ],
   [
    37,
-   24,
-   29,
+   130,
+   146,
    "OTHER",
-   "Yoren"
+   "Tyrion Lannister"
   ],
   [
    37,
@@ -818,13 +748,6 @@
   ],
   [
    37,
-   88,
-   94,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   37,
    110,
    117,
    "OTHER",
@@ -832,10 +755,24 @@
   ],
   [
    37,
-   130,
-   146,
+   88,
+   94,
    "OTHER",
-   "Tyrion Lannister"
+   "Eddard"
+  ],
+  [
+   37,
+   24,
+   29,
+   "OTHER",
+   "Yoren"
+  ],
+  [
+   38,
+   57,
+   68,
+   "OTHER",
+   "Jory Cassel"
   ],
   [
    38,
@@ -852,32 +789,11 @@
    "Arya"
   ],
   [
-   38,
-   57,
-   68,
-   "OTHER",
-   "Jory Cassel"
-  ],
-  [
    39,
    0,
    4,
    "OTHER",
    "Jory"
-  ],
-  [
-   40,
-   37,
-   48,
-   "OTHER",
-   "King Robert"
-  ],
-  [
-   40,
-   55,
-   61,
-   "OTHER",
-   "Eddard"
   ],
   [
    40,
@@ -888,10 +804,24 @@
   ],
   [
    40,
+   37,
+   48,
+   "OTHER",
+   "King Robert"
+  ],
+  [
+   40,
    135,
    146,
    "OTHER",
    "Iron Throne"
+  ],
+  [
+   40,
+   55,
+   61,
+   "OTHER",
+   "Eddard"
   ],
   [
    41,
@@ -909,10 +839,10 @@
   ],
   [
    42,
-   0,
-   5,
+   39,
+   47,
    "OTHER",
-   "Varys"
+   "Red Keep"
   ],
   [
    42,
@@ -923,10 +853,10 @@
   ],
   [
    42,
-   39,
-   47,
+   0,
+   5,
    "OTHER",
-   "Red Keep"
+   "Varys"
   ],
   [
    43,
@@ -934,6 +864,20 @@
    6,
    "OTHER",
    "Eddard"
+  ],
+  [
+   44,
+   51,
+   63,
+   "OTHER",
+   "Littlefinger"
+  ],
+  [
+   44,
+   92,
+   100,
+   "OTHER",
+   "Daenerys"
   ],
   [
    44,
@@ -951,24 +895,10 @@
   ],
   [
    44,
-   51,
-   63,
-   "OTHER",
-   "Littlefinger"
-  ],
-  [
-   44,
    68,
    73,
    "OTHER",
    "Varys"
-  ],
-  [
-   44,
-   92,
-   100,
-   "OTHER",
-   "Daenerys"
   ],
   [
    45,
@@ -1007,38 +937,10 @@
   ],
   [
    48,
-   3,
-   9,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   48,
-   62,
-   68,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   48,
    22,
    34,
    "OTHER",
    "Littlefinger"
-  ],
-  [
-   48,
-   3,
-   9,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   48,
-   62,
-   68,
-   "OTHER",
-   "Eddard"
   ],
   [
    48,
@@ -1049,10 +951,17 @@
   ],
   [
    48,
-   87,
-   90,
+   3,
+   9,
    "OTHER",
-   "Jon"
+   "Eddard"
+  ],
+  [
+   48,
+   62,
+   68,
+   "OTHER",
+   "Eddard"
   ],
   [
    49,
@@ -1063,24 +972,24 @@
   ],
   [
    50,
-   0,
-   9,
-   "OTHER",
-   "Ser Loras"
-  ],
-  [
-   50,
    14,
    24,
    "OTHER",
    "Lord Renly"
   ],
   [
-   51,
+   50,
    0,
-   5,
+   9,
    "OTHER",
-   "Renly"
+   "Ser Loras"
+  ],
+  [
+   51,
+   54,
+   63,
+   "OTHER",
+   "Kingswood"
   ],
   [
    51,
@@ -1091,10 +1000,10 @@
   ],
   [
    51,
-   54,
-   63,
+   0,
+   5,
    "OTHER",
-   "Kingswood"
+   "Renly"
   ],
   [
    52,
@@ -1112,24 +1021,24 @@
   ],
   [
    53,
-   0,
-   5,
-   "OTHER",
-   "Renly"
-  ],
-  [
-   53,
    62,
    73,
    "OTHER",
    "Iron Throne"
   ],
   [
-   54,
+   53,
    0,
    5,
    "OTHER",
-   "Loras"
+   "Renly"
+  ],
+  [
+   54,
+   132,
+   144,
+   "OTHER",
+   "Lord Stannis"
   ],
   [
    54,
@@ -1154,17 +1063,17 @@
   ],
   [
    54,
+   0,
+   5,
+   "OTHER",
+   "Loras"
+  ],
+  [
+   54,
    109,
    114,
    "OTHER",
    "Renly"
-  ],
-  [
-   54,
-   132,
-   144,
-   "OTHER",
-   "Lord Stannis"
   ],
   [
    55,
@@ -1182,17 +1091,31 @@
   ],
   [
    56,
+   68,
+   77,
+   "OTHER",
+   "Targaryen"
+  ],
+  [
+   56,
    17,
    23,
    "OTHER",
    "Robert"
   ],
   [
-   56,
-   68,
-   77,
+   57,
+   90,
+   100,
    "OTHER",
-   "Targaryen"
+   "Narrow Sea"
+  ],
+  [
+   57,
+   64,
+   72,
+   "OTHER",
+   "Dothraki"
   ],
   [
    57,
@@ -1209,20 +1132,6 @@
    "Eddard"
   ],
   [
-   57,
-   64,
-   72,
-   "OTHER",
-   "Dothraki"
-  ],
-  [
-   57,
-   90,
-   100,
-   "OTHER",
-   "Narrow Sea"
-  ],
-  [
    58,
    0,
    9,
@@ -1235,13 +1144,6 @@
    21,
    "OTHER",
    "Renly"
-  ],
-  [
-   59,
-   0,
-   6,
-   "OTHER",
-   "Robert"
   ],
   [
    59,
@@ -1265,11 +1167,11 @@
    "Viserys"
   ],
   [
-   60,
+   59,
    0,
    6,
    "OTHER",
-   "Cersei"
+   "Robert"
   ],
   [
    60,
@@ -1280,17 +1182,24 @@
   ],
   [
    60,
-   84,
-   90,
-   "OTHER",
-   "Robert"
-  ],
-  [
-   60,
    242,
    250,
    "OTHER",
    "Westeros"
+  ],
+  [
+   60,
+   0,
+   6,
+   "OTHER",
+   "Cersei"
+  ],
+  [
+   60,
+   84,
+   90,
+   "OTHER",
+   "Robert"
   ],
   [
    61,
@@ -1364,13 +1273,6 @@
   ],
   [
    66,
-   51,
-   60,
-   "OTHER",
-   "Jon Arryn"
-  ],
-  [
-   66,
    102,
    113,
    "OTHER",
@@ -1379,9 +1281,16 @@
   [
    66,
    51,
-   54,
+   60,
    "OTHER",
-   "Jon"
+   "Jon Arryn"
+  ],
+  [
+   67,
+   107,
+   114,
+   "OTHER",
+   "Mhaegen"
   ],
   [
    67,
@@ -1396,13 +1305,6 @@
    40,
    "OTHER",
    "Robert"
-  ],
-  [
-   67,
-   107,
-   114,
-   "OTHER",
-   "Mhaegen"
   ],
   [
    68,
@@ -1420,13 +1322,6 @@
   ],
   [
    69,
-   0,
-   6,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   69,
    12,
    24,
    "OTHER",
@@ -1441,17 +1336,10 @@
   ],
   [
    69,
-   57,
-   63,
+   0,
+   6,
    "OTHER",
-   "Robert"
-  ],
-  [
-   69,
-   147,
-   153,
-   "OTHER",
-   "Robert"
+   "Eddard"
   ],
   [
    69,
@@ -1466,13 +1354,6 @@
    153,
    "OTHER",
    "Robert"
-  ],
-  [
-   69,
-   29,
-   32,
-   "OTHER",
-   "Jon"
   ],
   [
    70,
@@ -1483,10 +1364,10 @@
   ],
   [
    71,
-   21,
-   27,
+   145,
+   164,
    "OTHER",
-   "Eddard"
+   "Ser Jaime Lannister"
   ],
   [
    71,
@@ -1504,24 +1385,10 @@
   ],
   [
    71,
-   155,
-   164,
+   21,
+   27,
    "OTHER",
-   "Lannister"
-  ],
-  [
-   71,
-   145,
-   164,
-   "OTHER",
-   "Ser Jaime Lannister"
-  ],
-  [
-   72,
-   0,
-   5,
-   "OTHER",
-   "Jaime"
+   "Eddard"
   ],
   [
    72,
@@ -1529,6 +1396,13 @@
    25,
    "OTHER",
    "Tyrion"
+  ],
+  [
+   72,
+   0,
+   5,
+   "OTHER",
+   "Jaime"
   ],
   [
    73,
@@ -1546,36 +1420,15 @@
   ],
   [
    74,
-   0,
-   6,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   74,
    39,
    48,
    "OTHER",
    "Lannister"
   ],
   [
-   75,
+   74,
    0,
-   5,
-   "OTHER",
-   "Jaime"
-  ],
-  [
-   75,
-   24,
-   30,
-   "OTHER",
-   "Eddard"
-  ],
-  [
-   75,
-   35,
-   41,
+   6,
    "OTHER",
    "Eddard"
   ],
@@ -1601,7 +1454,7 @@
    "Tyrion"
   ],
   [
-   76,
+   75,
    0,
    5,
    "OTHER",
@@ -1613,6 +1466,20 @@
    82,
    "OTHER",
    "Eddard"
+  ],
+  [
+   76,
+   0,
+   5,
+   "OTHER",
+   "Jaime"
+  ],
+  [
+   77,
+   88,
+   97,
+   "OTHER",
+   "Lannister"
   ],
   [
    77,
@@ -1636,18 +1503,11 @@
    "Wyl"
   ],
   [
-   77,
-   88,
-   97,
+   78,
+   53,
+   62,
    "OTHER",
    "Lannister"
-  ],
-  [
-   78,
-   13,
-   16,
-   "OTHER",
-   "Ned"
   ],
   [
    78,
@@ -1658,10 +1518,24 @@
   ],
   [
    78,
-   53,
-   62,
+   13,
+   16,
    "OTHER",
-   "Lannister"
+   "Ned"
+  ],
+  [
+   79,
+   13,
+   18,
+   "OTHER",
+   "Jaime"
+  ],
+  [
+   79,
+   46,
+   51,
+   "OTHER",
+   "Jaime"
   ],
   [
    79,
@@ -1669,34 +1543,6 @@
    4,
    "OTHER",
    "Jory"
-  ],
-  [
-   79,
-   13,
-   18,
-   "OTHER",
-   "Jaime"
-  ],
-  [
-   79,
-   46,
-   51,
-   "OTHER",
-   "Jaime"
-  ],
-  [
-   79,
-   13,
-   18,
-   "OTHER",
-   "Jaime"
-  ],
-  [
-   79,
-   46,
-   51,
-   "OTHER",
-   "Jaime"
   ],
   [
    80,
@@ -1793,17 +1639,10 @@
   ],
   [
    2,
-   14,
-   18,
+   174,
+   182,
    "OTHER",
-   "Bran"
-  ],
-  [
-   2,
-   207,
-   211,
-   "OTHER",
-   "Bran"
+   "Dothraki"
   ],
   [
    2,
@@ -1814,13 +1653,6 @@
   ],
   [
    2,
-   174,
-   182,
-   "OTHER",
-   "Dothraki"
-  ],
-  [
-   2,
    14,
    18,
    "OTHER",
@@ -1835,17 +1667,24 @@
   ],
   [
    3,
+   9,
+   22,
+   "OTHER",
+   "Maester Luwin"
+  ],
+  [
+   3,
    0,
    4,
    "OTHER",
    "Bran"
   ],
   [
-   3,
-   9,
-   22,
+   4,
+   162,
+   178,
    "OTHER",
-   "Maester Luwin"
+   "Tyrion Lannister"
   ],
   [
    4,
@@ -1860,13 +1699,6 @@
    87,
    "OTHER",
    "Ros"
-  ],
-  [
-   4,
-   162,
-   178,
-   "OTHER",
-   "Tyrion Lannister"
   ]
  ],
  "summary/In the Vale": [
@@ -1893,17 +1725,17 @@
   ],
   [
    1,
-   119,
-   124,
-   "OTHER",
-   "Bronn"
-  ],
-  [
-   1,
    134,
    148,
    "OTHER",
    "Crossroads Inn"
+  ],
+  [
+   1,
+   190,
+   203,
+   "OTHER",
+   "Vale of Arryn"
   ],
   [
    1,
@@ -1914,17 +1746,10 @@
   ],
   [
    1,
-   190,
-   203,
+   119,
+   124,
    "OTHER",
-   "Vale of Arryn"
-  ],
-  [
-   2,
-   0,
-   7,
-   "OTHER",
-   "Catelyn"
+   "Bronn"
   ],
   [
    2,
@@ -1932,6 +1757,13 @@
    59,
    "OTHER",
    "Winterfell"
+  ],
+  [
+   2,
+   0,
+   7,
+   "OTHER",
+   "Catelyn"
   ],
   [
    3,
@@ -1984,17 +1816,17 @@
   ],
   [
    8,
-   42,
-   48,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   8,
    122,
    129,
    "OTHER",
    "Catelyn"
+  ],
+  [
+   8,
+   42,
+   48,
+   "OTHER",
+   "Tyrion"
   ],
   [
    9,
@@ -2005,10 +1837,10 @@
   ],
   [
    10,
-   0,
-   6,
+   26,
+   43,
    "OTHER",
-   "Tyrion"
+   "Eyrie's High Hall"
   ],
   [
    10,
@@ -2019,10 +1851,10 @@
   ],
   [
    10,
-   26,
-   43,
+   0,
+   6,
    "OTHER",
-   "Eyrie's High Hall"
+   "Tyrion"
   ],
   [
    11,
@@ -2047,10 +1879,24 @@
   ],
   [
    12,
+   61,
+   67,
+   "OTHER",
+   "Tyrion"
+  ],
+  [
+   12,
    0,
    4,
    "OTHER",
    "Lysa"
+  ],
+  [
+   12,
+   75,
+   79,
+   "OTHER",
+   "Vale"
   ],
   [
    12,
@@ -2060,18 +1906,11 @@
    "Cat"
   ],
   [
-   12,
-   61,
-   67,
+   13,
+   63,
+   78,
    "OTHER",
-   "Tyrion"
-  ],
-  [
-   12,
-   75,
-   79,
-   "OTHER",
-   "Vale"
+   "House Lannister"
   ],
   [
    13,
@@ -2082,10 +1921,10 @@
   ],
   [
    13,
-   63,
-   78,
+   164,
+   169,
    "OTHER",
-   "House Lannister"
+   "Eyrie"
   ],
   [
    13,
@@ -2100,13 +1939,6 @@
    134,
    "OTHER",
    "Vale"
-  ],
-  [
-   13,
-   164,
-   169,
-   "OTHER",
-   "Eyrie"
   ],
   [
    14,

@@ -2,17 +2,17 @@
  "info": [
   [
    0,
-   1,
-   13,
-   "OTHER",
-   "High Sparrow"
-  ],
-  [
-   0,
    59,
    74,
    "OTHER",
    "Game of Thrones"
+  ],
+  [
+   0,
+   1,
+   13,
+   "OTHER",
+   "High Sparrow"
   ],
   [
    2,
@@ -37,20 +37,27 @@
   ],
   [
    4,
-   0,
-   5,
-   "OTHER",
-   "Weiss"
-  ],
-  [
-   4,
    23,
    33,
    "OTHER",
    "Mark Mylod"
+  ],
+  [
+   4,
+   0,
+   5,
+   "OTHER",
+   "Weiss"
   ]
  ],
  "plot": [
+  [
+   0,
+   26,
+   40,
+   "OTHER",
+   "Many-Faced God"
+  ],
   [
    0,
    3,
@@ -64,13 +71,6 @@
    16,
    "OTHER",
    "Arya"
-  ],
-  [
-   0,
-   26,
-   40,
-   "OTHER",
-   "Many-Faced God"
   ],
   [
    1,
@@ -88,6 +88,13 @@
   ],
   [
    2,
+   26,
+   49,
+   "OTHER",
+   "Long Bridge of Volantis"
+  ],
+  [
+   2,
    0,
    6,
    "OTHER",
@@ -99,23 +106,9 @@
    16,
    "OTHER",
    "Varys"
-  ],
-  [
-   2,
-   26,
-   49,
-   "OTHER",
-   "Long Bridge of Volantis"
   ]
  ],
  "summary/At the Wall": [
-  [
-   0,
-   0,
-   22,
-   "OTHER",
-   "King Stannis Baratheon"
-  ],
   [
    0,
    64,
@@ -125,31 +118,17 @@
   ],
   [
    0,
+   0,
+   22,
+   "OTHER",
+   "King Stannis Baratheon"
+  ],
+  [
+   0,
    101,
    109,
    "OTHER",
    "Jon Snow"
-  ],
-  [
-   0,
-   101,
-   104,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   1,
-   0,
-   3,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   1,
-   13,
-   20,
-   "OTHER",
-   "Stannis"
   ],
   [
    1,
@@ -160,31 +139,17 @@
   ],
   [
    1,
+   13,
+   20,
+   "OTHER",
+   "Stannis"
+  ],
+  [
+   1,
    0,
    3,
    "OTHER",
    "Jon"
-  ],
-  [
-   2,
-   0,
-   3,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   2,
-   24,
-   37,
-   "OTHER",
-   "Night's Watch"
-  ],
-  [
-   2,
-   180,
-   193,
-   "OTHER",
-   "Night's Watch"
   ],
   [
    2,
@@ -195,27 +160,6 @@
   ],
   [
    2,
-   97,
-   104,
-   "OTHER",
-   "Stannis"
-  ],
-  [
-   2,
-   195,
-   202,
-   "OTHER",
-   "Stannis"
-  ],
-  [
-   2,
-   129,
-   141,
-   "OTHER",
-   "Castle Black"
-  ],
-  [
-   2,
    24,
    37,
    "OTHER",
@@ -227,6 +171,13 @@
    193,
    "OTHER",
    "Night's Watch"
+  ],
+  [
+   2,
+   129,
+   141,
+   "OTHER",
+   "Castle Black"
   ],
   [
    2,
@@ -248,6 +199,13 @@
    3,
    "OTHER",
    "Jon"
+  ],
+  [
+   3,
+   81,
+   91,
+   "OTHER",
+   "Winterfell"
   ],
   [
    3,
@@ -265,45 +223,10 @@
   ],
   [
    3,
-   81,
-   91,
-   "OTHER",
-   "Winterfell"
-  ],
-  [
-   3,
    133,
    137,
    "OTHER",
    "Wall"
-  ],
-  [
-   4,
-   48,
-   51,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   4,
-   70,
-   73,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   4,
-   48,
-   51,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   4,
-   70,
-   73,
-   "OTHER",
-   "Jon"
   ],
   [
    4,
@@ -335,10 +258,10 @@
   ],
   [
    5,
-   5,
-   12,
+   72,
+   92,
    "OTHER",
-   "Stannis"
+   "Eastwatch-by-the-Sea"
   ],
   [
    5,
@@ -349,17 +272,10 @@
   ],
   [
    5,
-   72,
-   92,
-   "OTHER",
-   "Eastwatch-by-the-Sea"
-  ],
-  [
    5,
-   94,
-   97,
+   12,
    "OTHER",
-   "Jon"
+   "Stannis"
   ],
   [
    5,
@@ -377,13 +293,6 @@
   ],
   [
    6,
-   63,
-   66,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   6,
    113,
    126,
    "OTHER",
@@ -393,20 +302,6 @@
    6,
    63,
    66,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   6,
-   3,
-   8,
-   "OTHER",
-   "Davos"
-  ],
-  [
-   7,
-   16,
-   19,
    "OTHER",
    "Jon"
   ],
@@ -433,20 +328,6 @@
   ],
   [
    8,
-   54,
-   57,
-   "OTHER",
-   "Sam"
-  ],
-  [
-   8,
-   142,
-   145,
-   "OTHER",
-   "Sam"
-  ],
-  [
-   8,
    64,
    77,
    "OTHER",
@@ -465,41 +346,6 @@
    145,
    "OTHER",
    "Sam"
-  ],
-  [
-   8,
-   40,
-   43,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   8,
-   54,
-   57,
-   "OTHER",
-   "Sam"
-  ],
-  [
-   8,
-   142,
-   145,
-   "OTHER",
-   "Sam"
-  ],
-  [
-   8,
-   64,
-   77,
-   "OTHER",
-   "Maester Aemon"
-  ],
-  [
-   9,
-   0,
-   3,
-   "OTHER",
-   "Jon"
   ],
   [
    9,
@@ -517,13 +363,6 @@
   ],
   [
    11,
-   0,
-   4,
-   "OTHER",
-   "Snow"
-  ],
-  [
-   11,
    27,
    45,
    "OTHER",
@@ -535,6 +374,13 @@
    87,
    "OTHER",
    "First Ranger"
+  ],
+  [
+   11,
+   0,
+   4,
+   "OTHER",
+   "Snow"
   ],
   [
    12,
@@ -572,30 +418,9 @@
    "Jon"
   ],
   [
-   13,
-   14,
-   17,
-   "OTHER",
-   "Jon"
-  ],
-  [
    14,
    82,
    85,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   14,
-   82,
-   85,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   15,
-   39,
-   42,
    "OTHER",
    "Jon"
   ],
@@ -629,17 +454,17 @@
   ],
   [
    16,
-   0,
-   11,
-   "OTHER",
-   "Ser Alliser"
-  ],
-  [
-   16,
    67,
    79,
    "OTHER",
    "Dolorous Edd"
+  ],
+  [
+   16,
+   0,
+   11,
+   "OTHER",
+   "Ser Alliser"
   ],
   [
    16,
@@ -650,31 +475,17 @@
   ],
   [
    17,
-   0,
-   5,
-   "OTHER",
-   "Small"
-  ],
-  [
-   17,
    18,
    27,
    "OTHER",
    "Ned Stark"
   ],
   [
-   18,
+   17,
    0,
-   3,
+   5,
    "OTHER",
-   "Jon"
-  ],
-  [
-   18,
-   8,
-   13,
-   "OTHER",
-   "Janos"
+   "Small"
   ],
   [
    18,
@@ -682,6 +493,13 @@
    99,
    "OTHER",
    "Eddard Stark"
+  ],
+  [
+   18,
+   8,
+   13,
+   "OTHER",
+   "Janos"
   ],
   [
    18,
@@ -701,20 +519,6 @@
    19,
    165,
    168,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   19,
-   165,
-   168,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   20,
-   0,
-   3,
    "OTHER",
    "Jon"
   ],
@@ -748,13 +552,6 @@
   ],
   [
    21,
-   50,
-   53,
-   "OTHER",
-   "Jon"
-  ],
-  [
-   21,
    61,
    66,
    "OTHER",
@@ -771,24 +568,10 @@
  "summary/In King's Landing": [
   [
    0,
-   0,
-   6,
+   89,
+   109,
    "OTHER",
-   "Tommen"
-  ],
-  [
-   0,
-   11,
-   19,
-   "OTHER",
-   "Margaery"
-  ],
-  [
-   0,
-   158,
-   166,
-   "OTHER",
-   "Margaery"
+   "Great Sept of Baelor"
   ],
   [
    0,
@@ -799,13 +582,6 @@
   ],
   [
    0,
-   89,
-   109,
-   "OTHER",
-   "Great Sept of Baelor"
-  ],
-  [
-   0,
    11,
    19,
    "OTHER",
@@ -817,6 +593,13 @@
    166,
    "OTHER",
    "Margaery"
+  ],
+  [
+   0,
+   0,
+   6,
+   "OTHER",
+   "Tommen"
   ],
   [
    1,
@@ -841,17 +624,24 @@
   ],
   [
    4,
+   44,
+   58,
+   "OTHER",
+   "King's Landing"
+  ],
+  [
+   4,
    0,
    6,
    "OTHER",
    "Tommen"
   ],
   [
-   4,
-   44,
-   58,
+   5,
+   97,
+   111,
    "OTHER",
-   "King's Landing"
+   "King\u2019s Landing"
   ],
   [
    5,
@@ -875,13 +665,6 @@
    "Cersei"
   ],
   [
-   5,
-   97,
-   111,
-   "OTHER",
-   "King\u2019s Landing"
-  ],
-  [
    6,
    18,
    24,
@@ -897,17 +680,17 @@
   ],
   [
    7,
-   0,
-   6,
-   "OTHER",
-   "Tommen"
-  ],
-  [
-   7,
    60,
    73,
    "OTHER",
    "Casterly Rock"
+  ],
+  [
+   7,
+   0,
+   6,
+   "OTHER",
+   "Tommen"
   ],
   [
    7,
@@ -925,24 +708,17 @@
   ],
   [
    8,
-   40,
-   46,
-   "OTHER",
-   "Cersei"
-  ],
-  [
-   8,
-   22,
-   30,
-   "OTHER",
-   "Margaery"
-  ],
-  [
-   8,
    73,
    81,
    "OTHER",
    "Margaery"
+  ],
+  [
+   8,
+   40,
+   46,
+   "OTHER",
+   "Cersei"
   ],
   [
    9,
@@ -974,17 +750,17 @@
   ],
   [
    11,
-   31,
-   39,
-   "OTHER",
-   "Sparrows"
-  ],
-  [
-   11,
    51,
    62,
    "OTHER",
    "High Septon"
+  ],
+  [
+   11,
+   31,
+   39,
+   "OTHER",
+   "Sparrows"
   ],
   [
    11,
@@ -1009,15 +785,22 @@
   ],
   [
    13,
+   108,
+   120,
+   "OTHER",
+   "High Sparrow"
+  ],
+  [
+   13,
    69,
    77,
    "OTHER",
    "Sparrows"
   ],
   [
-   13,
-   108,
-   120,
+   14,
+   56,
+   68,
    "OTHER",
    "High Sparrow"
   ],
@@ -1027,13 +810,6 @@
    30,
    "OTHER",
    "Cersei"
-  ],
-  [
-   14,
-   56,
-   68,
-   "OTHER",
-   "High Sparrow"
   ],
   [
    15,
@@ -1051,10 +827,10 @@
   ],
   [
    16,
-   0,
-   6,
+   133,
+   145,
    "OTHER",
-   "Cersei"
+   "High Sparrow"
   ],
   [
    16,
@@ -1065,10 +841,17 @@
   ],
   [
    16,
-   133,
-   145,
+   0,
+   6,
    "OTHER",
-   "High Sparrow"
+   "Cersei"
+  ],
+  [
+   17,
+   63,
+   76,
+   "OTHER",
+   "Petyr Baelish"
   ],
   [
    17,
@@ -1088,27 +871,6 @@
    17,
    38,
    44,
-   "OTHER",
-   "Qyburn"
-  ],
-  [
-   17,
-   63,
-   76,
-   "OTHER",
-   "Petyr Baelish"
-  ],
-  [
-   18,
-   3,
-   9,
-   "OTHER",
-   "Qyburn"
-  ],
-  [
-   18,
-   93,
-   99,
    "OTHER",
    "Qyburn"
   ],
@@ -1137,17 +899,17 @@
  "summary/In the Free Cities": [
   [
    0,
-   0,
-   4,
+   109,
+   133,
    "OTHER",
-   "Arya"
+   "House of Black and White"
   ],
   [
    0,
    42,
-   46,
+   52,
    "OTHER",
-   "Arya"
+   "Arya Stark"
   ],
   [
    0,
@@ -1165,24 +927,10 @@
   ],
   [
    0,
-   42,
-   52,
-   "OTHER",
-   "Arya Stark"
-  ],
-  [
    0,
-   109,
-   123,
+   4,
    "OTHER",
-   "House of Black"
-  ],
-  [
-   0,
-   109,
-   133,
-   "OTHER",
-   "House of Black and White"
+   "Arya"
   ],
   [
    1,
@@ -1200,17 +948,17 @@
   ],
   [
    3,
-   10,
-   14,
-   "OTHER",
-   "Arya"
-  ],
-  [
-   3,
    42,
    50,
    "OTHER",
    "The Waif"
+  ],
+  [
+   3,
+   10,
+   14,
+   "OTHER",
+   "Arya"
   ],
   [
    4,
@@ -1228,6 +976,27 @@
   ],
   [
    5,
+   74,
+   84,
+   "OTHER",
+   "Arya Stark"
+  ],
+  [
+   5,
+   133,
+   143,
+   "OTHER",
+   "Arya Stark"
+  ],
+  [
+   5,
+   184,
+   194,
+   "OTHER",
+   "Arya Stark"
+  ],
+  [
+   5,
    33,
    37,
    "OTHER",
@@ -1235,94 +1004,10 @@
   ],
   [
    5,
-   74,
-   78,
-   "OTHER",
-   "Arya"
-  ],
-  [
-   5,
-   133,
-   137,
-   "OTHER",
-   "Arya"
-  ],
-  [
-   5,
-   184,
-   188,
-   "OTHER",
-   "Arya"
-  ],
-  [
-   5,
-   74,
-   84,
-   "OTHER",
-   "Arya Stark"
-  ],
-  [
-   5,
-   133,
-   143,
-   "OTHER",
-   "Arya Stark"
-  ],
-  [
-   5,
-   184,
-   194,
-   "OTHER",
-   "Arya Stark"
-  ],
-  [
-   5,
-   74,
-   84,
-   "OTHER",
-   "Arya Stark"
-  ],
-  [
-   5,
-   133,
-   143,
-   "OTHER",
-   "Arya Stark"
-  ],
-  [
-   5,
-   184,
-   194,
-   "OTHER",
-   "Arya Stark"
-  ],
-  [
-   5,
    173,
    177,
    "OTHER",
    "Waif"
-  ],
-  [
-   5,
-   74,
-   84,
-   "OTHER",
-   "Arya Stark"
-  ],
-  [
-   5,
-   133,
-   143,
-   "OTHER",
-   "Arya Stark"
-  ],
-  [
-   5,
-   184,
-   194,
-   "OTHER",
-   "Arya Stark"
   ],
   [
    6,
@@ -1389,13 +1074,6 @@
   ],
   [
    11,
-   32,
-   43,
-   "OTHER",
-   "Free Cities"
-  ],
-  [
-   11,
    45,
    61,
    "OTHER",
@@ -1403,10 +1081,10 @@
   ],
   [
    11,
-   66,
-   71,
+   32,
+   43,
    "OTHER",
-   "Varys"
+   "Free Cities"
   ],
   [
    11,
@@ -1414,6 +1092,13 @@
    98,
    "OTHER",
    "Volantis"
+  ],
+  [
+   11,
+   66,
+   71,
+   "OTHER",
+   "Varys"
   ],
   [
    12,
@@ -1431,24 +1116,24 @@
   ],
   [
    13,
-   55,
-   60,
-   "OTHER",
-   "Varys"
-  ],
-  [
-   13,
    105,
    114,
    "OTHER",
    "Volantene"
   ],
   [
-   14,
-   0,
-   5,
+   13,
+   55,
+   60,
    "OTHER",
    "Varys"
+  ],
+  [
+   14,
+   67,
+   80,
+   "OTHER",
+   "Red Priestess"
   ],
   [
    14,
@@ -1459,17 +1144,17 @@
   ],
   [
    14,
-   67,
-   80,
+   0,
+   5,
    "OTHER",
-   "Red Priestess"
+   "Varys"
   ],
   [
    15,
-   0,
-   6,
+   72,
+   86,
    "OTHER",
-   "Tyrion"
+   "King's Landing"
   ],
   [
    15,
@@ -1487,10 +1172,10 @@
   ],
   [
    15,
-   72,
-   86,
+   0,
+   6,
    "OTHER",
-   "King's Landing"
+   "Tyrion"
   ],
   [
    16,
@@ -1522,17 +1207,17 @@
   ],
   [
    18,
-   0,
-   6,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   18,
    46,
    55,
    "OTHER",
    "Priestess"
+  ],
+  [
+   18,
+   0,
+   6,
+   "OTHER",
+   "Tyrion"
   ],
   [
    19,
@@ -1564,17 +1249,17 @@
   ],
   [
    20,
-   52,
-   57,
-   "OTHER",
-   "Varys"
-  ],
-  [
-   20,
    64,
    70,
    "OTHER",
    "Tyrion"
+  ],
+  [
+   20,
+   52,
+   57,
+   "OTHER",
+   "Varys"
   ],
   [
    21,
@@ -1592,33 +1277,33 @@
   ],
   [
    23,
-   3,
-   9,
-   "OTHER",
-   "Tyrion"
-  ],
-  [
-   23,
    38,
    51,
    "OTHER",
    "Jorah Mormont"
+  ],
+  [
+   23,
+   3,
+   9,
+   "OTHER",
+   "Tyrion"
   ]
  ],
  "summary/In the North": [
-  [
-   0,
-   28,
-   32,
-   "OTHER",
-   "Reek"
-  ],
   [
    0,
    34,
    46,
    "OTHER",
    "Roose Bolton"
+  ],
+  [
+   0,
+   86,
+   97,
+   "OTHER",
+   "Lord Cerwyn"
   ],
   [
    0,
@@ -1629,10 +1314,10 @@
   ],
   [
    0,
-   86,
-   97,
+   28,
+   32,
    "OTHER",
-   "Lord Cerwyn"
+   "Reek"
   ],
   [
    1,
@@ -1678,17 +1363,17 @@
   ],
   [
    3,
-   0,
-   5,
-   "OTHER",
-   "Roose"
-  ],
-  [
-   3,
    48,
    54,
    "OTHER",
    "Bolton"
+  ],
+  [
+   3,
+   0,
+   5,
+   "OTHER",
+   "Roose"
   ],
   [
    3,
@@ -1713,17 +1398,17 @@
   ],
   [
    5,
-   25,
-   32,
-   "OTHER",
-   "Baelish"
-  ],
-  [
-   5,
    87,
    97,
    "OTHER",
    "Winterfell"
+  ],
+  [
+   5,
+   25,
+   32,
+   "OTHER",
+   "Baelish"
   ],
   [
    5,
@@ -1734,24 +1419,17 @@
   ],
   [
    6,
-   59,
-   64,
-   "OTHER",
-   "Sansa"
-  ],
-  [
-   6,
    181,
    193,
    "OTHER",
    "Roose Bolton"
   ],
   [
-   7,
-   0,
-   12,
+   6,
+   59,
+   64,
    "OTHER",
-   "Littlefinger"
+   "Sansa"
   ],
   [
    7,
@@ -1759,6 +1437,13 @@
    79,
    "OTHER",
    "Ramsay Bolton"
+  ],
+  [
+   7,
+   0,
+   12,
+   "OTHER",
+   "Littlefinger"
   ],
   [
    8,
@@ -1769,31 +1454,17 @@
   ],
   [
    9,
+   108,
+   120,
+   "OTHER",
+   "Littlefinger"
+  ],
+  [
+   9,
    0,
    11,
    "OTHER",
    "The Boltons"
-  ],
-  [
-   9,
-   18,
-   23,
-   "OTHER",
-   "Sansa"
-  ],
-  [
-   9,
-   98,
-   103,
-   "OTHER",
-   "Sansa"
-  ],
-  [
-   9,
-   28,
-   35,
-   "OTHER",
-   "Baelish"
   ],
   [
    9,
@@ -1804,10 +1475,10 @@
   ],
   [
    9,
-   4,
-   11,
+   28,
+   35,
    "OTHER",
-   "Boltons"
+   "Baelish"
   ],
   [
    9,
@@ -1831,11 +1502,25 @@
    "Sansa"
   ],
   [
-   9,
-   108,
-   120,
+   10,
+   118,
+   132,
    "OTHER",
-   "Littlefinger"
+   "King's Landing"
+  ],
+  [
+   10,
+   188,
+   195,
+   "OTHER",
+   "Myranda"
+  ],
+  [
+   10,
+   151,
+   157,
+   "OTHER",
+   "Ramsay"
   ],
   [
    10,
@@ -1850,27 +1535,6 @@
    52,
    "OTHER",
    "Roose"
-  ],
-  [
-   10,
-   118,
-   132,
-   "OTHER",
-   "King's Landing"
-  ],
-  [
-   10,
-   151,
-   157,
-   "OTHER",
-   "Ramsay"
-  ],
-  [
-   10,
-   188,
-   195,
-   "OTHER",
-   "Myranda"
   ],
   [
    11,
@@ -1902,6 +1566,20 @@
   ],
   [
    14,
+   152,
+   164,
+   "OTHER",
+   "Littlefinger"
+  ],
+  [
+   14,
+   192,
+   202,
+   "OTHER",
+   "Lannisters"
+  ],
+  [
+   14,
    25,
    32,
    "OTHER",
@@ -1929,18 +1607,11 @@
    "Roose"
   ],
   [
-   14,
-   152,
-   164,
+   15,
+   145,
+   153,
    "OTHER",
-   "Littlefinger"
-  ],
-  [
-   14,
-   192,
-   202,
-   "OTHER",
-   "Lannisters"
+   "Margaery"
   ],
   [
    15,
@@ -1948,6 +1619,13 @@
    7,
    "OTHER",
    "Baelish"
+  ],
+  [
+   15,
+   93,
+   99,
+   "OTHER",
+   "Cersei"
   ],
   [
    15,
@@ -1965,31 +1643,10 @@
   ],
   [
    15,
-   93,
-   99,
-   "OTHER",
-   "Cersei"
-  ],
-  [
-   15,
-   145,
-   153,
-   "OTHER",
-   "Margaery"
-  ],
-  [
-   15,
    176,
    181,
    "OTHER",
    "Sansa"
-  ],
-  [
-   16,
-   0,
-   6,
-   "OTHER",
-   "Bolton"
   ],
   [
    16,
@@ -2004,6 +1661,13 @@
    98,
    "OTHER",
    "Capital"
+  ],
+  [
+   16,
+   0,
+   6,
+   "OTHER",
+   "Bolton"
   ]
  ]
 }
